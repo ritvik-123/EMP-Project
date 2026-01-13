@@ -1,0 +1,56 @@
+# =========================
+# Jupyter / Python
+# =========================
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environments
+# =========================
+.env
+.venv
+venv/
+env/
+
+# =========================
+# Data files (raw & intermediate)
+# =========================
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.tsv
+
+# =========================
+# Trained models / checkpoints
+# =========================
+TTC4900Model/
+fine_tuned_bert/
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# =========================
+# Generated results & outputs
+# =========================
+results/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# =========================
+# Logs & temp
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
