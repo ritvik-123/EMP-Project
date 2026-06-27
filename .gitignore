@@ -13,14 +13,6 @@ __pycache__/
 venv/
 env/
 
-# =========================
-# Data files (raw & intermediate)
-# =========================
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.tsv
 
 # =========================
 # Trained models / checkpoints

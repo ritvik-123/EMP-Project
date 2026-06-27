@@ -1,0 +1,1233 @@
+source_id,campus,sentence_index,sentence_id,sentence,ideological,institutionalized,interpersonal,internalized,none_or_unclear,rationale,gemini_raw,reviewed,review_notes
+1,Chico,0,1_0,"Something that I noticed is how I feel about my ""labels"" now versus how I would have viewed them when I was younger.",0,0,0,1,0,"The sentence describes a personal reflection on one's feelings about their 'labels' (identity categories) over time. This relates to how one perceives and integrates their identity in relation to societal narratives, which is a core aspect of internalized oppression (e.g., discomfort with identity, accepting or rejecting negative beliefs about oneself due to dominant narratives).","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a personal reflection on one's feelings about their 'labels' (identity categories) over time. This relates to how one perceives and integrates their identity in relation to societal narratives, which is a core aspect of internalized oppression (e.g., discomfort with identity, accepting or rejecting negative beliefs about oneself due to dominant narratives).""
+}",0,
+1,Chico,1,1_1,I think it is important to know how each individual defines themselves and listening to each other is key.,0,0,0,0,1,"The sentence discusses the importance of individual self-definition and listening, which are positive communication practices, but it does not describe or allude to any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence discusses the importance of individual self-definition and listening, which are positive communication practices, but it does not describe or allude to any form of oppression.""
+}",0,
+1,Chico,2,1_2,Our students (and everyone around us) are having different life experiences despite sharing a racial/gender/enter-identity-here commonalities.,0,0,0,0,1,"The sentence acknowledges diverse life experiences despite shared identities, which is a general observation about identity and diversity, not a direct description of any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence acknowledges diverse life experiences despite shared identities, which is a general observation about identity and diversity, not a direct description of any specific form of oppression.""
+}",0,
+1,Chico,3,1_3,"Since we all have so many different identities, knowing how they all intersect at different points in our lives and how that has created different life perspectives is an overwhelming task to do individually and in an hour long live zoom session.",0,0,0,0,1,"The sentence describes the complexity and overwhelming nature of understanding identity intersectionality within a specific time frame, which is more of an activity feedback or general identity reflection without explicitly mentioning any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes the complexity and overwhelming nature of understanding identity intersectionality within a specific time frame, which is more of an activity feedback or general identity reflection without explicitly mentioning any form of oppression.""
+}",0,
+1,Chico,4,1_4,"I want to continue listening to my students individually, but I am looking forward to seeing how I can potentially interpret generalized data to ensure my classroom an equitable space for all.",0,1,0,0,0,"The teacher is actively working to ensure their classroom, an institutional setting, is an 'equitable space.' This implies a recognition of potential or existing systemic inequities within the classroom and a proactive effort to address them through data interpretation, aligning with efforts to prevent or dismantle institutionalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The teacher is actively working to ensure their classroom, an institutional setting, is an 'equitable space.' This implies a recognition of potential or existing systemic inequities within the classroom and a proactive effort to address them through data interpretation, aligning with efforts to prevent or dismantle institutionalized oppression.""
+}",0,
+2,Chico,0,2_0,"As an intersectional scholar, I had experience discussing my various identities.",0,0,0,0,1,"The sentence describes an experience of discussing identities, which is a general identity reflection without clear mention of oppression, bias, exclusion, or inequity.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes an experience of discussing identities, which is a general identity reflection without clear mention of oppression, bias, exclusion, or inequity.""
+}",0,
+2,Chico,1,2_1,"However, one highlight of this exercise for me was that I realized I had not ever listed them out in such a methodical manner.",0,0,0,0,1,"The sentence describes a personal realization about an exercise's methodology, which is activity feedback and does not clearly align with any of the defined forms of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal realization about an exercise's methodology, which is activity feedback and does not clearly align with any of the defined forms of oppression.""
+}",0,
+2,Chico,2,2_2,To be able to list the various identities within each category gave me a visual representation of my identities that I had never seen on paper.,0,0,0,0,1,"The sentence describes a personal reflection and visualization of identities, which is a general identity reflection without clear mention of oppression. It does not describe any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection and visualization of identities, which is a general identity reflection without clear mention of oppression. It does not describe any specific form of oppression.""
+}",0,
+2,Chico,3,2_3,An insight I gained from this activity has to do with the role that belief systems has played in my life.,0,0,0,0,1,"The sentence is a general reflection on the role of belief systems in one's life, without specifying if these belief systems are oppressive or lead to inequality. It does not clearly describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on the role of belief systems in one's life, without specifying if these belief systems are oppressive or lead to inequality. It does not clearly describe any form of oppression.""
+}",0,
+2,Chico,4,2_4,I identify as agnostic and never really considered my lack of engagement with institutionalized religions as one of my identities.,0,0,0,0,1,"The sentence is a general reflection on personal identity (agnosticism) and how the speaker previously considered it, without describing any form of oppression, bias, or negative impact.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on personal identity (agnosticism) and how the speaker previously considered it, without describing any form of oppression, bias, or negative impact.""
+}",0,
+2,Chico,5,2_5,"However, this activity forced me to consider the role of the dominant religion in my community in how my identities have evolved throughout my life.",1,0,0,0,0,"The sentence reflects on the influence of a 'dominant religion' (a source of belief systems, norms, and cultural narratives) on the evolution of one's identities, which aligns with ideological oppression.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence reflects on the influence of a 'dominant religion' (a source of belief systems, norms, and cultural narratives) on the evolution of one's identities, which aligns with ideological oppression.""
+}",0,
+3,Dominguez Hills,0,3_0,It was great being able to reflect on the identity map.,0,0,0,0,1,"This sentence is general positive feedback on an activity and general identity reflection, which per instructions should be none_or_unclear.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is general positive feedback on an activity and general identity reflection, which per instructions should be none_or_unclear.""
+}",0,
+3,Dominguez Hills,1,3_1,I brought up some powerful memories that have shaped who I am.,0,0,0,0,1,This sentence describes general identity reflection and personal history without any explicit mention or implication of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes general identity reflection and personal history without any explicit mention or implication of oppression.""
+}",0,
+3,Dominguez Hills,2,3_2,I immigrated to this country as a young adult.,0,0,0,0,1,The sentence is a factual statement about an individual's life event (immigration) and does not describe any form of oppression or its effects.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_1"": 1,
+    ""rationale"": ""The sentence is a factual statement about an individual's life event (immigration) and does not describe any form of oppression or its effects.""
+}",0,
+3,Dominguez Hills,3,3_3,"Coming here, I was color blind.",1,0,0,0,0,"The concept of 'color blindness' is an ideological stance that often denies the existence or impact of racial inequality, thereby potentially justifying or perpetuating it by ignoring systemic issues.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The concept of 'color blindness' is an ideological stance that often denies the existence or impact of racial inequality, thereby potentially justifying or perpetuating it by ignoring systemic issues.""
+}",0,
+3,Dominguez Hills,4,3_4,I believed that all people deserved the same respect regardless of how we look on the outside.,0,0,0,0,1,"The sentence expresses a belief in universal respect and equality, which is contrary to the definitions of oppression. It does not describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence expresses a belief in universal respect and equality, which is contrary to the definitions of oppression. It does not describe any form of oppression.""
+}",0,
+3,Dominguez Hills,5,3_5,I soon learned to see color.,1,0,0,0,0,"The phrase 'learned to see color' suggests an assimilation of societal categories and distinctions based on race, which are often rooted in ideological systems and cultural narratives that define and assign meaning to racial differences, frequently justifying inequality.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The phrase 'learned to see color' suggests an assimilation of societal categories and distinctions based on race, which are often rooted in ideological systems and cultural narratives that define and assign meaning to racial differences, frequently justifying inequality.""
+}",0,
+3,Dominguez Hills,6,3_6,"I learned to see the struggles of minority groups, colorism, sexism, and the inequality of resources attached to all these “isms.” As a young adult, I learned I was a minority, Brown, with an accent, which I was shamed for numerous times.",1,1,1,0,0,"The sentence mentions 'colorism' and 'sexism' as belief systems justifying inequality (ideological). 'Inequality of resources' points to systemic issues and access (institutionalized). Being 'shamed for numerous times' due to identity describes person-to-person mistreatment (interpersonal). The sentence describes the act of being shamed, not the absorption of shame or negative beliefs by the individual.","{
+    ""ideological"": 1,
+    ""institutionalized"": 1,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence mentions 'colorism' and 'sexism' as belief systems justifying inequality (ideological). 'Inequality of resources' points to systemic issues and access (institutionalized). Being 'shamed for numerous times' due to identity describes person-to-person mistreatment (interpersonal). The sentence describes the act of being shamed, not the absorption of shame or negative beliefs by the individual.""
+}",0,
+3,Dominguez Hills,7,3_7,"I experienced how it felt to be discriminated against, stereotyped because I am Mexican, and looked at as less deserving.",1,0,1,0,0,The sentence describes experiencing discrimination and being stereotyped (interpersonal oppression) due to dominant negative beliefs and stereotypes about Mexican identity (ideological oppression).,"{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes experiencing discrimination and being stereotyped (interpersonal oppression) due to dominant negative beliefs and stereotypes about Mexican identity (ideological oppression).""
+}",0,
+3,Dominguez Hills,8,3_8,"Nonetheless, I have also found kind and supportive people in my journey.",0,0,0,0,1,"The sentence describes finding kind and supportive people, which is a positive experience and does not reflect any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes finding kind and supportive people, which is a positive experience and does not reflect any form of oppression.""
+}",0,
+3,Dominguez Hills,9,3_9,"I educated myself, and here I am, doing my best to teach and support my students.",0,0,0,0,1,"The sentence describes personal effort and professional dedication to teaching and supporting students. It does not mention or imply any form of oppression, bias, inequity, or exclusion.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal effort and professional dedication to teaching and supporting students. It does not mention or imply any form of oppression, bias, inequity, or exclusion.""
+}",0,
+3,Dominguez Hills,10,3_10,This exercise has brought back some difficult memories and the realization that healing does not mean the memory does not have an emotional impact on me.,0,0,0,0,1,"The sentence describes a personal reflection on difficult memories and the nature of healing, but it does not explicitly describe or attribute these memories or their impact to any specific form of oppression. It is a general statement about emotional processing.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection on difficult memories and the nature of healing, but it does not explicitly describe or attribute these memories or their impact to any specific form of oppression. It is a general statement about emotional processing.""
+}",0,
+3,Dominguez Hills,11,3_11,"This is the most important realization for me because when we do this type of exercise with our students, we never know what will be triggered within them, and if that is the case, how can I tell if they do not reach out and how can I support them aside from providing resources in Canvas and remind them to be kind to themselves.",0,0,0,1,0,"The instructor's concern about students being 'triggered' and needing to 'be kind to themselves' suggests that the exercise might bring up difficult internal experiences, potentially related to shame, self-doubt, or discomfort with identity, which are aspects of internalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The instructor's concern about students being 'triggered' and needing to 'be kind to themselves' suggests that the exercise might bring up difficult internal experiences, potentially related to shame, self-doubt, or discomfort with identity, which are aspects of internalized oppression.""
+}",0,
+4,Dominguez Hills,0,4_0,"I noticed that it was easy for me to identify elements of me better than before I pursued academia, and feel affirmed in who I am today.",0,0,0,0,1,"The sentence describes personal growth and self-affirmation, not a form of oppression. It reflects general identity development rather than internalized negative beliefs or other forms of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal growth and self-affirmation, not a form of oppression. It reflects general identity development rather than internalized negative beliefs or other forms of oppression.""
+}",0,
+4,Dominguez Hills,1,4_1,Ageism is something that has always impacted me.,0,0,0,1,0,"The sentence describes the personal impact of ageism on the individual, suggesting an absorption of negative societal messages or beliefs into the self.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes the personal impact of ageism on the individual, suggesting an absorption of negative societal messages or beliefs into the self.""
+}",0,
+4,Dominguez Hills,2,4_2,"In my professional career, I am often the youngest in a particular space (I know this will not always be the case) and experience peers who are older calling me ""sweetie.""",0,0,1,0,0,"The sentence describes a person-to-person interaction where older peers use a patronizing term ('sweetie'), which is a form of mistreatment or microaggression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a person-to-person interaction where older peers use a patronizing term ('sweetie'), which is a form of mistreatment or microaggression.""
+}",0,
+4,Dominguez Hills,3,4_3,"When it comes to students or direct reports, this is not the case, however it comes from peers who are older than me.",0,0,0,0,1,"The sentence describes the source of an unspecified 'it' (peers vs. students/direct reports) but does not provide enough context to determine if 'it' constitutes a form of oppression. Therefore, no clear label applies.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes the source of an unspecified 'it' (peers vs. students/direct reports) but does not provide enough context to determine if 'it' constitutes a form of oppression. Therefore, no clear label applies.""
+}",0,
+4,Dominguez Hills,4,4_4,"While the intent might not be ill, the tone feels condescending.",0,0,1,0,0,"The sentence describes a 'condescending tone,' which is a form of mistreatment or negative interaction experienced person-to-person.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a 'condescending tone,' which is a form of mistreatment or negative interaction experienced person-to-person.""
+}",0,
+4,Dominguez Hills,5,4_5,I have learned to be confident in my own assets and still be open to learning from them despite the feeling of being perceived as not yet as experienced.,0,0,1,0,0,"The sentence describes the individual's feeling of being perceived by others as not yet experienced, which relates to judgment or treatment by others in person-to-person interactions.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes the individual's feeling of being perceived by others as not yet experienced, which relates to judgment or treatment by others in person-to-person interactions.""
+}",0,
+4,Dominguez Hills,6,4_6,It also made me think about others parts of me that I have yet to unpack and how they have influenced me.,0,0,0,0,1,"This sentence describes general identity reflection and self-discovery, not clearly linking to any form of oppression. It does not mention shame, self-doubt, or negative beliefs about oneself due to dominant narratives.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes general identity reflection and self-discovery, not clearly linking to any form of oppression. It does not mention shame, self-doubt, or negative beliefs about oneself due to dominant narratives.""
+}",0,
+4,Dominguez Hills,7,4_7,"My ethnicity has been of influence in my life, but it was not until in recent years that I have reflected on its impact on me.",0,0,0,0,1,"This sentence describes a general reflection on the influence of ethnicity, but does not specify any form of oppression (ideological, institutionalized, interpersonal, or internalized). It is a general identity reflection without clear mention of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes a general reflection on the influence of ethnicity, but does not specify any form of oppression (ideological, institutionalized, interpersonal, or internalized). It is a general identity reflection without clear mention of oppression.""
+}",0,
+4,Dominguez Hills,8,4_8,I have constantly felt that where I grew up and my sibling order as the oldest have been the larger influencers into who I am today and how I carry myself as an individual and educator.,0,0,0,0,1,"The sentence describes personal identity reflection and influences on self, without mentioning any form of oppression, inequality, bias, or exclusion.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal identity reflection and influences on self, without mentioning any form of oppression, inequality, bias, or exclusion.""
+}",0,
+4,Dominguez Hills,9,4_9,"With time, I have seen how being a Latina has also impacted me in terms of how I show up today, but not to the extent that my hometown and sibling order have shaped me.",0,0,0,0,1,"The sentence describes a general impact of identity without detailing specific forms of oppression, such as negative beliefs, external mistreatment, or systemic barriers. It is a general identity reflection.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general impact of identity without detailing specific forms of oppression, such as negative beliefs, external mistreatment, or systemic barriers. It is a general identity reflection.""
+}",0,
+4,Dominguez Hills,10,4_10,I identify as Mexican-American and Latina.,0,0,0,0,1,This is a statement of identity and does not describe any form of oppression. It falls under 'General identity reflection without oppression'.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This is a statement of identity and does not describe any form of oppression. It falls under 'General identity reflection without oppression'.""
+}",0,
+4,Dominguez Hills,11,4_11,It took some time to come to this version of my identity because I often was labeled as not being “Mexican” enough.,1,0,1,1,0,The sentence describes being judged and labeled by others ('interpersonal') based on a perceived failure to meet certain cultural norms or stereotypes of what it means to be 'Mexican' ('ideological'). This external judgment led to a personal struggle in forming one's identity ('internalized').,"{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes being judged and labeled by others ('interpersonal') based on a perceived failure to meet certain cultural norms or stereotypes of what it means to be 'Mexican' ('ideological'). This external judgment led to a personal struggle in forming one's identity ('internalized').""
+}",0,
+4,Dominguez Hills,12,4_12,It was through my involvement in different Latina affinity groups that I stepped into my own version of who I am as a Latina/Mexican-American.,0,0,0,0,1,"The sentence describes a positive process of identity development and self-discovery through involvement in affinity groups. It does not explicitly mention or describe any form of oppression, but rather a journey of self-affirmation. This falls under general identity reflection without clear oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a positive process of identity development and self-discovery through involvement in affinity groups. It does not explicitly mention or describe any form of oppression, but rather a journey of self-affirmation. This falls under general identity reflection without clear oppression.""
+}",0,
+4,Dominguez Hills,13,4_13,Growing up in the city of Compton as a Latina female has had the strongest impact on who I am today.,0,0,0,0,1,"The sentence is a general reflection on identity and the impact of one's background, but it does not describe any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on identity and the impact of one's background, but it does not describe any specific form of oppression.""
+}",0,
+4,Dominguez Hills,14,4_14,My drive to be an educator and to fight for equitable access to education and financial stability comes from my experiences under these two identities.,0,1,0,0,0,"The sentence describes a drive to fight for 'equitable access to education and financial stability,' which implies addressing systemic barriers and unequal distribution of resources, characteristic of institutionalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a drive to fight for 'equitable access to education and financial stability,' which implies addressing systemic barriers and unequal distribution of resources, characteristic of institutionalized oppression.""
+}",0,
+4,Dominguez Hills,15,4_15,"I take great pride in my Mexican heritage, and also in my ability to embrace my privileges as an American.",0,0,0,0,1,"The sentence expresses personal pride and an acknowledgment of privilege, but it does not describe any form of oppression or its effects. It is a general identity reflection.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence expresses personal pride and an acknowledgment of privilege, but it does not describe any form of oppression or its effects. It is a general identity reflection.""
+}",0,
+4,Dominguez Hills,16,4_16,I hold privilege as a person with a college degree who speaks English and is heterosexual.,1,1,0,0,0,"The speaker acknowledges privilege related to education, language, and sexuality. This privilege is a direct outcome of dominant ideologies (e.g., valuing certain educational paths, languages, or sexual orientations) and institutional structures (e.g., educational systems, language policies, legal frameworks) that confer advantages to some while disadvantaging others.","{
+    ""ideological"": 1,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The speaker acknowledges privilege related to education, language, and sexuality. This privilege is a direct outcome of dominant ideologies (e.g., valuing certain educational paths, languages, or sexual orientations) and institutional structures (e.g., educational systems, language policies, legal frameworks) that confer advantages to some while disadvantaging others.""
+}",0,
+4,Dominguez Hills,17,4_17,I have experienced oppression as a woman of color from an immigrant background who at one point lived in a mixed-status household.,0,0,0,0,1,"The sentence states that the individual has experienced oppression but does not describe the specific form it took (e.g., through beliefs, institutions, interactions, or internal feelings). It is a general statement of having experienced oppression due to identity, rather than a description of a particular type of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence states that the individual has experienced oppression but does not describe the specific form it took (e.g., through beliefs, institutions, interactions, or internal feelings). It is a general statement of having experienced oppression due to identity, rather than a description of a particular type of oppression.""
+}",0,
+4,Dominguez Hills,18,4_18,I think about how this impacted me growing up as someone who did not speak English until the third grade.,0,0,0,0,1,"The sentence describes a personal impact related to language background but does not specify the nature of the impact in terms of ideological, institutional, interpersonal, or internalized oppression. It is a general reflection.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal impact related to language background but does not specify the nature of the impact in terms of ideological, institutional, interpersonal, or internalized oppression. It is a general reflection.""
+}",0,
+4,Dominguez Hills,19,4_19,I was placed in courses that were not as challenging.,0,1,0,0,0,"The sentence describes being placed into courses by an educational system or institution, which can be a form of institutionalized oppression if these placements are inequitable or based on discriminatory practices within the formal structure.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes being placed into courses by an educational system or institution, which can be a form of institutionalized oppression if these placements are inequitable or based on discriminatory practices within the formal structure.""
+}",0,
+4,Dominguez Hills,20,4_20,I also think about instances when I am the only one in the room representing my identity and the pressure I feel for being tokenized.,0,0,1,1,0,"Being 'tokenized' is a form of treatment by others (interpersonal oppression) where one is seen as a representative rather than an individual. The 'pressure I feel' as a result of this experience indicates an absorption of this burden into the self, leading to discomfort or self-consciousness (internalized oppression).","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""Being 'tokenized' is a form of treatment by others (interpersonal oppression) where one is seen as a representative rather than an individual. The 'pressure I feel' as a result of this experience indicates an absorption of this burden into the self, leading to discomfort or self-consciousness (internalized oppression).""
+}",0,
+5,Dominguez Hills,0,5_0,I also identify with the geographic aspect.,0,0,0,0,1,"This sentence is a general statement of identity reflection and does not describe any form of oppression. It does not mention beliefs, systems, interactions, or internal struggles related to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is a general statement of identity reflection and does not describe any form of oppression. It does not mention beliefs, systems, interactions, or internal struggles related to oppression.""
+}",0,
+5,Dominguez Hills,1,5_1,"When I return to my rural hometown, I change behavior and check many of my comments.",0,0,1,1,0,"The individual changes their behavior and self-censors ('check many of my comments') when returning to their hometown, suggesting an anticipation of judgment or negative treatment from others (interpersonal oppression) and a need to hide aspects of their identity or conform due to discomfort with their authentic self in that environment (internalized oppression).","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The individual changes their behavior and self-censors ('check many of my comments') when returning to their hometown, suggesting an anticipation of judgment or negative treatment from others (interpersonal oppression) and a need to hide aspects of their identity or conform due to discomfort with their authentic self in that environment (internalized oppression).""
+}",0,
+5,Dominguez Hills,2,5_2,There is much suspicion around those from big cities with PhDs and I work hard to avoid coming across as judgmental or acting superior to those with modest income and fewer job opportunities.,1,0,1,0,0,The 'suspicion' around those from big cities with PhDs represents a stereotype or belief system (ideological). The speaker's effort to avoid 'coming across as judgmental or acting superior' relates to their person-to-person interactions (interpersonal).,"{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The 'suspicion' around those from big cities with PhDs represents a stereotype or belief system (ideological). The speaker's effort to avoid 'coming across as judgmental or acting superior' relates to their person-to-person interactions (interpersonal).""
+}",0,
+6,East Bay,0,6_0,"A highlight from my experience was considering how the places that I grew up in and the places I lived, all helped shape my identity.",0,0,0,0,1,"This sentence describes a general reflection on how places shaped identity, without mentioning any form of oppression, bias, or inequity.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes a general reflection on how places shaped identity, without mentioning any form of oppression, bias, or inequity.""
+}",0,
+6,East Bay,1,6_1,I always thought it would be people and system that would shape my identity.,0,0,0,0,1,"This is a general reflection on how identity is shaped by external factors (people and systems) without explicitly mentioning or implying any form of oppression, bias, or inequality.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This is a general reflection on how identity is shaped by external factors (people and systems) without explicitly mentioning or implying any form of oppression, bias, or inequality.""
+}",0,
+6,East Bay,2,6_2,Never thought about the role the places would play!,0,0,0,0,1,"This sentence expresses a new realization or insight about the role of 'places,' but it does not describe any form of oppression directly. It is a general reflection.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence expresses a new realization or insight about the role of 'places,' but it does not describe any form of oppression directly. It is a general reflection.""
+}",0,
+6,East Bay,3,6_3,Something I already knew - how privileges change as people move from one place to another.,0,0,0,0,1,"The sentence is a general observation about the changing nature of privilege, which is related to inequality but does not describe a specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It's more of a reflection on existing knowledge.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general observation about the changing nature of privilege, which is related to inequality but does not describe a specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It's more of a reflection on existing knowledge.""
+}",0,
+7,East Bay,0,7_0,I’m 42 years old.,0,0,0,0,1,The sentence is a neutral statement of age and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a neutral statement of age and does not describe any form of oppression.""
+}",0,
+7,East Bay,1,7_1,It was hard to think about where to put my identities within the map!,0,0,0,0,1,"The sentence describes difficulty with an activity related to identity, but it does not explicitly mention or imply any form of oppression. It is activity feedback and general identity reflection without clear links to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes difficulty with an activity related to identity, but it does not explicitly mention or imply any form of oppression. It is activity feedback and general identity reflection without clear links to oppression.""
+}",0,
+8,East Bay,0,8_0,I've worked to ensure I am aware of my own traits.,0,0,0,0,1,"This sentence describes general self-awareness and reflection, not a clear form of oppression. It does not mention shame, self-doubt, or negative beliefs about oneself due to dominant narratives, nor does it relate to systems, interactions, or societal beliefs that justify inequality.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes general self-awareness and reflection, not a clear form of oppression. It does not mention shame, self-doubt, or negative beliefs about oneself due to dominant narratives, nor does it relate to systems, interactions, or societal beliefs that justify inequality.""
+}",0,
+8,East Bay,1,8_1,After this exercise I did notice how much I rely on my clan network also known as k'é.,0,0,0,0,1,"The sentence describes a personal reflection on reliance on a cultural network. It does not mention or imply any form of oppression, bias, exclusion, or inequity. It falls under general identity reflection or activity feedback without clear links to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection on reliance on a cultural network. It does not mention or imply any form of oppression, bias, exclusion, or inequity. It falls under general identity reflection or activity feedback without clear links to oppression.""
+}",0,
+8,East Bay,2,8_2,This is a network of responsibilities tied to relationships.,0,0,0,0,1,"The sentence describes a general concept of responsibilities within relationships, which does not inherently indicate any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general concept of responsibilities within relationships, which does not inherently indicate any form of oppression.""
+}",0,
+8,East Bay,3,8_3,"I have clear responsibilities to my spouse, children, parents, and those that teach me (elders and knowledge holders).",0,0,0,0,1,"The sentence describes personal responsibilities and values, not any form of oppression or inequality.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal responsibilities and values, not any form of oppression or inequality.""
+}",0,
+8,East Bay,4,8_4,"Students become akin to nieces, nephews, sons, daughters, and elders.",0,0,0,0,1,"The sentence describes positive, familial relationships and does not mention or imply any form of oppression, inequality, bias, or negative treatment.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes positive, familial relationships and does not mention or imply any form of oppression, inequality, bias, or negative treatment.""
+}",0,
+8,East Bay,5,8_5,"This gives me insight into how I can, at times, remain grounded when things get chaotic.",0,0,0,0,1,"The sentence describes personal insight into coping mechanisms, which does not relate to any form of oppression. It is a general identity reflection without oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal insight into coping mechanisms, which does not relate to any form of oppression. It is a general identity reflection without oppression.""
+}",0,
+8,East Bay,6,8_6,"When the environment becomes unstable, which I define as the emergence of new unknowable variables, my social network can guide me or have me stay still until things clarify.",0,0,0,0,1,"The sentence describes a personal strategy for dealing with uncertainty by relying on a social network. It does not mention any form of oppression, bias, or inequity.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal strategy for dealing with uncertainty by relying on a social network. It does not mention any form of oppression, bias, or inequity.""
+}",0,
+9,Fresno,0,9_0,I enjoy having time to engage in activities like this as it forces me to go beyond the narrative that I tell myself about myself.,0,0,0,0,1,"The sentence describes general self-reflection and the benefit of an activity in challenging one's personal narrative. It does not explicitly link this narrative to any form of oppression, negative beliefs about oneself due to dominant narratives, or societal inequalities. It falls under general identity reflection or activity feedback.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes general self-reflection and the benefit of an activity in challenging one's personal narrative. It does not explicitly link this narrative to any form of oppression, negative beliefs about oneself due to dominant narratives, or societal inequalities. It falls under general identity reflection or activity feedback.""
+}",0,
+9,Fresno,1,9_1,"Digging into my various identities reminds that I belong to a variety of discourse communities which are often at odds with each other, and yet I can begin to see where those tensions exist when I make the connections between intrapersonal, systemic, and personal.",0,1,0,0,0,"The sentence explicitly mentions 'systemic' connections as a source of 'tensions' related to identity and discourse communities, which aligns with oppression embedded in systems or formal structures.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence explicitly mentions 'systemic' connections as a source of 'tensions' related to identity and discourse communities, which aligns with oppression embedded in systems or formal structures.""
+}",0,
+9,Fresno,2,9_2,"For this exercise, I noticed a connection that started in my early years when I felt not good enough about fitting into the mold of what a woman should be (according to family members) and not feeling good enough or smart enough as a faculty member.",1,0,0,1,0,The 'mold of what a woman should be' represents dominant ideas and norms (ideological oppression). The feelings of 'not good enough' and 'not feeling good enough or smart enough' are clear indicators of self-doubt and accepting negative beliefs about oneself (internalized oppression).,"{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The 'mold of what a woman should be' represents dominant ideas and norms (ideological oppression). The feelings of 'not good enough' and 'not feeling good enough or smart enough' are clear indicators of self-doubt and accepting negative beliefs about oneself (internalized oppression).""
+}",0,
+9,Fresno,3,9_3,I have found away to internalize that story and bring it into other aspects of my identity.,0,0,0,0,1,"The sentence describes the act of internalizing a 'story' into one's identity. While 'internalize' is a key term for internalized oppression, the nature of 'that story' is not specified as an oppressive narrative, negative belief, or one leading to shame/self-doubt. Without this context, it could be general identity reflection rather than oppression, aligning with the instruction not to force a label and to classify general identity reflection without oppression as none_or_unclear.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes the act of internalizing a 'story' into one's identity. While 'internalize' is a key term for internalized oppression, the nature of 'that story' is not specified as an oppressive narrative, negative belief, or one leading to shame/self-doubt. Without this context, it could be general identity reflection rather than oppression, aligning with the instruction not to force a label and to classify general identity reflection without oppression as none_or_unclear.""
+}",0,
+10,Long Beach,0,10_0,This was an interesting exercise.,0,0,0,0,1,This sentence is general activity feedback and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is general activity feedback and does not describe any form of oppression.""
+}",0,
+10,Long Beach,1,10_1,I am the only daughter in my family and have two older brothers.,0,0,0,0,1,This sentence is a factual statement about family composition and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is a factual statement about family composition and does not describe any form of oppression.""
+}",0,
+10,Long Beach,2,10_2,"I have lived in different countries during my childhood, which is called formative years.",0,0,0,0,1,The sentence describes a personal experience of living in different countries during childhood and uses a common term ('formative years'). It does not mention or imply any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal experience of living in different countries during childhood and uses a common term ('formative years'). It does not mention or imply any form of oppression.""
+}",0,
+10,Long Beach,3,10_3,That has helped me to know about the fact that people in different countries approach the same issue differently.,0,0,0,0,1,"The sentence describes learning about different approaches to issues across countries, which is a general observation about diversity of thought and does not describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes learning about different approaches to issues across countries, which is a general observation about diversity of thought and does not describe any form of oppression.""
+}",0,
+10,Long Beach,4,10_4,It helps me to be very accepting of different believes and behaviors.,0,0,0,0,1,"The sentence describes a positive personal trait of being accepting, which does not align with any of the defined forms of oppression. It is a general statement about personal growth.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a positive personal trait of being accepting, which does not align with any of the defined forms of oppression. It is a general statement about personal growth.""
+}",0,
+10,Long Beach,5,10_5,I may have had many privileges!,0,0,0,0,1,"The sentence is a general reflection on personal privilege, not an experience or description of oppression itself. It does not fit into any of the defined categories of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on personal privilege, not an experience or description of oppression itself. It does not fit into any of the defined categories of oppression.""
+}",0,
+10,Long Beach,6,10_6,"Well-traveled, middle class, a Ph.D degree etc.",0,0,0,0,1,"The sentence lists personal attributes and achievements, but does not describe or imply any form of oppression (ideological, institutionalized, interpersonal, or internalized). It's a neutral description of identity/status.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence lists personal attributes and achievements, but does not describe or imply any form of oppression (ideological, institutionalized, interpersonal, or internalized). It's a neutral description of identity/status.""
+}",0,
+10,Long Beach,7,10_7,"However, I never considered it privilege!",1,0,0,0,0,"The speaker reflects on a past lack of awareness regarding privilege, which is often a result of dominant ideologies or cultural narratives that normalize certain advantages, making them invisible.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The speaker reflects on a past lack of awareness regarding privilege, which is often a result of dominant ideologies or cultural narratives that normalize certain advantages, making them invisible.""
+}",0,
+10,Long Beach,8,10_8,I have great gratitude for the life I have lived.,0,0,0,0,1,"The sentence expresses personal gratitude and does not describe any form of oppression or related concepts. It is a general reflection without mentioning systems, bias, exclusion, inequity, or oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence expresses personal gratitude and does not describe any form of oppression or related concepts. It is a general reflection without mentioning systems, bias, exclusion, inequity, or oppression.""
+}",0,
+10,Long Beach,9,10_9,"Whatever didn’t kill me, made me stronger!",0,0,0,0,1,"This is a common idiom expressing resilience and personal growth, not a form of oppression or its effects.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This is a common idiom expressing resilience and personal growth, not a form of oppression or its effects.""
+}",0,
+10,Long Beach,10,10_10,"In the breakout room, I shared the fact that once during my undergraduate studies, I was told that I am taking the space that a man (who can provide for a family) should have had!",1,0,1,0,0,"The sentence describes a person-to-person interaction where the speaker was told they were taking a man's rightful place, which is a form of interpersonal oppression. This comment is rooted in an ideological belief system that prioritizes men's roles as providers and their access to opportunities over women's, thereby justifying inequality.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a person-to-person interaction where the speaker was told they were taking a man's rightful place, which is a form of interpersonal oppression. This comment is rooted in an ideological belief system that prioritizes men's roles as providers and their access to opportunities over women's, thereby justifying inequality.""
+}",0,
+10,Long Beach,11,10_11,Participants were surprised that it didn’t bother me that much.,0,0,0,0,1,"The sentence describes participants' surprise, but without context about 'it,' it's unclear if this surprise stems from or expresses any form of oppression (e.g., a stereotype, judgment, or microaggression). It does not clearly fit any category.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes participants' surprise, but without context about 'it,' it's unclear if this surprise stems from or expresses any form of oppression (e.g., a stereotype, judgment, or microaggression). It does not clearly fit any category.""
+}",0,
+10,Long Beach,12,10_12,Thinking about it I realized there were two reasons contributing to this issue.,0,0,0,0,1,"The sentence describes a general process of reflection and understanding an issue, without any clear connection to oppression, bias, or inequity in any form.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general process of reflection and understanding an issue, without any clear connection to oppression, bias, or inequity in any form.""
+}",0,
+10,Long Beach,13,10_13,One the fact that my father always said “ Education of my daughter is very important.,0,0,0,0,1,"The sentence describes a father's emphasis on his daughter's education, which is a personal value statement and does not clearly describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a father's emphasis on his daughter's education, which is a personal value statement and does not clearly describe any form of oppression.""
+}",0,
+10,Long Beach,14,10_14,Even more important than the education of my sons.” I realized what it really meant many years later and am so grateful for it.,0,0,0,0,1,The sentence is a personal reflection about a past realization and gratitude. It does not contain enough information to clearly link it to any specific form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a personal reflection about a past realization and gratitude. It does not contain enough information to clearly link it to any specific form of oppression.""
+}",0,
+10,Long Beach,15,10_15,The second factor was the fact that as I mentioned before I was exposed to different kinds of thoughts early on.,0,0,0,0,1,"The sentence describes being exposed to different thoughts, which is a general personal experience and does not clearly indicate any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes being exposed to different thoughts, which is a general personal experience and does not clearly indicate any form of oppression.""
+}",0,
+10,Long Beach,16,10_16,My main desire in life is to make a difference for others who have not been as lucky as I was.,0,0,0,0,1,"The sentence expresses a desire to help others who have faced misfortune, but it does not describe or exemplify any specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It is a statement of personal aspiration.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence expresses a desire to help others who have faced misfortune, but it does not describe or exemplify any specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It is a statement of personal aspiration.""
+}",0,
+10,Long Beach,17,10_17,Being a lecturer gives me that chance.,0,0,0,0,1,"The sentence describes an opportunity related to a professional role and does not mention any form of oppression, bias, or inequity.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes an opportunity related to a professional role and does not mention any form of oppression, bias, or inequity.""
+}",0,
+11,Long Beach,0,11_0,I noticed the same Maria.,0,0,0,0,1,"The sentence simply states an observation without any indication of oppression. It lacks context to suggest any form of ideological, institutionalized, interpersonal, or internalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence simply states an observation without any indication of oppression. It lacks context to suggest any form of ideological, institutionalized, interpersonal, or internalized oppression.""
+}",0,
+11,Long Beach,1,11_1,"I grew up in the midwest for the first half of my life, the second half in So Cal.",0,0,0,0,1,The sentence describes a geographical upbringing and does not mention or imply any form of oppression. It is a general statement about identity/background.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a geographical upbringing and does not mention or imply any form of oppression. It is a general statement about identity/background.""
+}",0,
+11,Long Beach,2,11_2,I have never felt targeted.,0,0,0,0,1,"The sentence describes a personal experience of not feeling targeted, rather than an instance or effect of any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal experience of not feeling targeted, rather than an instance or effect of any specific form of oppression.""
+}",0,
+11,Long Beach,3,11_3,"Listening to others' experiences with the attitude that what they are saying is valid for them, has really helped me become more open to different norms.",0,0,0,0,1,"The sentence describes a positive personal development in becoming more open to different norms through listening to others, rather than describing any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a positive personal development in becoming more open to different norms through listening to others, rather than describing any form of oppression.""
+}",0,
+12,Monterey Bay,0,12_0,I teach a SW class on Diversity and Social Justice and I give my students a similar activity.,0,0,0,0,1,"The sentence describes a teaching activity and a class topic, but does not describe any specific form of oppression or its direct application in a way that clearly fits the definitions. It is general activity feedback.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a teaching activity and a class topic, but does not describe any specific form of oppression or its direct application in a way that clearly fits the definitions. It is general activity feedback.""
+}",0,
+12,Monterey Bay,1,12_1,"However, it is quite interesting to be on the other side and reflect on these issues for myself.",0,0,0,0,1,The sentence describes a general act of personal reflection without specifying issues related to oppression or demonstrating any of the defined forms of oppression. It aligns with 'General identity reflection without oppression should usually be none_or_unclear'.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general act of personal reflection without specifying issues related to oppression or demonstrating any of the defined forms of oppression. It aligns with 'General identity reflection without oppression should usually be none_or_unclear'.""
+}",0,
+12,Monterey Bay,2,12_2,"I think for me , reflecting on my identities, privileges and oppressions continues to be an lifelong process which continues to push my awareness and growth no matter what age.",0,0,0,0,1,"The sentence describes a general, ongoing process of reflecting on identities, privileges, and oppressions, and personal growth. It does not describe a specific form of oppression or an experience that clearly fits into one of the categories.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general, ongoing process of reflecting on identities, privileges, and oppressions, and personal growth. It does not describe a specific form of oppression or an experience that clearly fits into one of the categories.""
+}",0,
+12,Monterey Bay,3,12_3,A highlight is how much I have learned at myself about these issues over the years; I see things quite different now at the age of 65 compared to 20-30 years ago.,0,0,0,0,1,"The sentence describes personal learning and a change in perspective over time, but it does not explicitly mention any form of oppression or its mechanisms. It's a general reflection on personal growth.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes personal learning and a change in perspective over time, but it does not explicitly mention any form of oppression or its mechanisms. It's a general reflection on personal growth.""
+}",0,
+13,Northridge,0,13_0,"A highlight for me was learning that there was a term for LGBTQ+ advocates: ""LGBTQ+ ally.""",0,0,0,0,1,"The sentence describes learning a term related to advocacy, which does not directly reflect any of the defined forms of oppression. It is an observation about language and learning.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes learning a term related to advocacy, which does not directly reflect any of the defined forms of oppression. It is an observation about language and learning.""
+}",0,
+13,Northridge,1,13_1,"As the parent of a nonbinary child, I was surprised that I did not know this term.",1,0,0,0,0,"The parent's surprise at not knowing the term for a nonbinary identity suggests that dominant cultural narratives and belief systems (ideological oppression) have historically excluded or minimized nonbinary identities, leading to a lack of widespread public knowledge.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The parent's surprise at not knowing the term for a nonbinary identity suggests that dominant cultural narratives and belief systems (ideological oppression) have historically excluded or minimized nonbinary identities, leading to a lack of widespread public knowledge.""
+}",0,
+13,Northridge,2,13_2,"It led me to focus on retention statistics for nonbinary students at CSUN, and I was shocked to find that they have some of the lowest retention rates.",0,1,0,0,0,"The sentence describes a systemic issue within an educational institution (CSUN) regarding the low retention rates of nonbinary students, which points to institutionalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes a systemic issue within an educational institution (CSUN) regarding the low retention rates of nonbinary students, which points to institutionalized oppression.""
+}",0,
+13,Northridge,3,13_3,"From my child's personal experience, I can relate to this.",0,0,0,0,1,"The sentence describes a personal connection to an experience but does not mention any form of oppression, bias, or inequity. It is a general statement of relation.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal connection to an experience but does not mention any form of oppression, bias, or inequity. It is a general statement of relation.""
+}",0,
+13,Northridge,4,13_4,"My child expressed to their professors that they wished to go by ""they/their"" pronouns in class and one of their professors flatly refused!",1,0,1,0,0,"The professor's refusal to use the student's preferred pronouns is a direct act of mistreatment and disrespect in a person-to-person interaction (interpersonal oppression). This action is also rooted in and expresses a belief system that denies or devalues non-binary identities, which justifies unequal treatment (ideological oppression).","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The professor's refusal to use the student's preferred pronouns is a direct act of mistreatment and disrespect in a person-to-person interaction (interpersonal oppression). This action is also rooted in and expresses a belief system that denies or devalues non-binary identities, which justifies unequal treatment (ideological oppression).""
+}",0,
+13,Northridge,5,13_5,And this was in the graduate program for marriage and family therapy of all places.,0,0,0,0,1,"The sentence describes a location (a graduate program) and expresses mild surprise ('of all places'), but it does not describe any form of oppression itself. Without further context about what happened in the program, no specific oppression label can be applied.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a location (a graduate program) and expresses mild surprise ('of all places'), but it does not describe any form of oppression itself. Without further context about what happened in the program, no specific oppression label can be applied.""
+}",0,
+13,Northridge,6,13_6,"It made my child want to drop out, and I had to encourage them to not throw their dreams away because of one insensitive/ignorant professor.",0,0,1,1,0,"The 'insensitive/ignorant professor' demonstrates interpersonal oppression through mistreatment. The child's desire to 'drop out' due to this experience suggests self-doubt or feeling lesser, aligning with internalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The 'insensitive/ignorant professor' demonstrates interpersonal oppression through mistreatment. The child's desire to 'drop out' due to this experience suggests self-doubt or feeling lesser, aligning with internalized oppression.""
+}",0,
+13,Northridge,7,13_7,"But it made me understand the significant impact that one instructor's comments/reactions can have on a student's willingness to stay the course, particularly if that student is a member of a targeted group.",0,0,1,0,0,"The sentence describes the impact of an individual instructor's 'comments/reactions' on a student, particularly those from 'targeted groups,' which is a clear example of person-to-person interaction that can lead to mistreatment or microaggressions.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes the impact of an individual instructor's 'comments/reactions' on a student, particularly those from 'targeted groups,' which is a clear example of person-to-person interaction that can lead to mistreatment or microaggressions.""
+}",0,
+13,Northridge,8,13_8,An insight that I had was that there are so many things that shape my identity.,0,0,0,0,1,This is a general reflection on identity formation without any clear mention or implication of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This is a general reflection on identity formation without any clear mention or implication of oppression.""
+}",0,
+13,Northridge,9,13_9,"Prior to my mapping experience, I would have described my identity as a 64 year-old, white female.",0,0,0,0,1,The sentence is a general reflection on identity and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on identity and does not describe any form of oppression.""
+}",0,
+13,Northridge,10,13_10,Now I can see that there are many more aspects of my experiences that have shaped my identity.,0,0,0,0,1,"This sentence is a general reflection on identity formation and self-discovery, without mentioning any specific forms of oppression, negative self-perception, or external pressures related to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is a general reflection on identity formation and self-discovery, without mentioning any specific forms of oppression, negative self-perception, or external pressures related to oppression.""
+}",0,
+13,Northridge,11,13_11,This has made me aware that identities can be shaped by things that are not visible to an observer.,0,0,0,0,1,"The sentence is a general reflection on the nature of identity and its less visible influences, rather than describing a specific form of oppression or its impact.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on the nature of identity and its less visible influences, rather than describing a specific form of oppression or its impact.""
+}",0,
+14,Northridge,0,14_0,"From my identity map experience, a highlight was having the opportunity to think about how my identities overlap within individual, system, and interpersonal categories.",0,0,0,0,1,"This sentence describes a positive reflection on an identity mapping activity, focusing on how identities overlap within different categories. It does not describe any form of oppression, nor does it mention systems, bias, exclusion, inequity, or oppression directly. It falls under 'activity feedback' and 'general identity reflection without oppression'.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes a positive reflection on an identity mapping activity, focusing on how identities overlap within different categories. It does not describe any form of oppression, nor does it mention systems, bias, exclusion, inequity, or oppression directly. It falls under 'activity feedback' and 'general identity reflection without oppression'.""
+}",0,
+14,Northridge,1,14_1,"I've done very basic identity wheels with my first-year students, but this was a much more nuanced activity.",0,0,0,0,1,"The sentence describes a teaching activity and its perceived nuance. It does not mention any form of oppression, bias, inequity, or exclusion. As per instructions, activity feedback alone should usually be none_or_unclear.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a teaching activity and its perceived nuance. It does not mention any form of oppression, bias, inequity, or exclusion. As per instructions, activity feedback alone should usually be none_or_unclear.""
+}",0,
+14,Northridge,2,14_2,The process of deciding where to plop certain identities within the 3 different circles was very eye-opening.,0,0,0,0,1,"This sentence describes feedback on an activity involving identities, but it does not clearly mention any form of oppression. It is general activity feedback and identity reflection without explicit reference to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes feedback on an activity involving identities, but it does not clearly mention any form of oppression. It is general activity feedback and identity reflection without explicit reference to oppression.""
+}",0,
+14,Northridge,3,14_3,"As an example, I realized the ways in which my racial identity has been prominently felt in all 3 circles, as well as my religious background and allyship with different communities (queer and disability).",0,0,0,0,1,"The sentence describes a general reflection on identity and its salience, but does not explicitly mention or describe any form of oppression (ideological, institutionalized, interpersonal, or internalized). It's a neutral observation of identity being 'prominently felt' without detailing negative experiences or systemic issues.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a general reflection on identity and its salience, but does not explicitly mention or describe any form of oppression (ideological, institutionalized, interpersonal, or internalized). It's a neutral observation of identity being 'prominently felt' without detailing negative experiences or systemic issues.""
+}",0,
+14,Northridge,4,14_4,"Much of my identity is also based on my interpersonal experiences, which I'd never thought about before.",0,0,0,0,1,"The sentence is a general reflection on the sources of identity and a new realization, not describing any form of oppression or inequity. It does not mention oppressive interpersonal experiences, only that identity is based on them.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on the sources of identity and a new realization, not describing any form of oppression or inequity. It does not mention oppressive interpersonal experiences, only that identity is based on them.""
+}",0,
+14,Northridge,5,14_5,"An insight from this experience is that our identities can shift and change throughout our lives, and yet at the same time, experiences we may have had decades ago have contributed to who we are to today.",0,0,0,0,1,"The sentence is a general reflection on identity development and the impact of past experiences, not describing any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on identity development and the impact of past experiences, not describing any form of oppression.""
+}",0,
+14,Northridge,6,14_6,"For myself, when we were prompted to think about our religious background, I thought about how I spent quite a bit of time within evangelical Christian communities all throughout my youth, but I don't spend time within (or even think about) these communities anymore; however, those experiences are a core part of who I am now.",0,0,0,0,1,"The sentence describes a personal reflection on religious background and identity formation, but it does not mention any form of oppression, inequality, bias, or mistreatment. It is a general identity reflection without oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection on religious background and identity formation, but it does not mention any form of oppression, inequality, bias, or mistreatment. It is a general identity reflection without oppression.""
+}",0,
+15,Sacramento,0,15_0,"While working on my identity map, I gained a deeper understanding of the numerous intersecting aspects of my identity.",0,0,0,0,1,"The sentence describes a process of self-reflection and gaining understanding about one's identity, which is a general identity reflection without mentioning any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a process of self-reflection and gaining understanding about one's identity, which is a general identity reflection without mentioning any form of oppression.""
+}",0,
+15,Sacramento,1,15_1,It was eye-opening to recognize just how many dimensions and intersections shape my personal identity.,0,0,0,0,1,"This sentence describes a general reflection on personal identity and its complexities, without mentioning any specific form of oppression or its impact. It aligns with the guideline that 'General identity reflection without oppression should usually be none_or_unclear'.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence describes a general reflection on personal identity and its complexities, without mentioning any specific form of oppression or its impact. It aligns with the guideline that 'General identity reflection without oppression should usually be none_or_unclear'.""
+}",0,
+15,Sacramento,2,15_2,"These facets include not only aspects like gender, race, and sexual orientation but also factors such as socio-economic background, education, religion, ability, and many more.",0,0,0,0,1,"The sentence lists various identity facets but does not describe any form of oppression, bias, or inequity. It is a general statement about diversity.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence lists various identity facets but does not describe any form of oppression, bias, or inequity. It is a general statement about diversity.""
+}",0,
+15,Sacramento,3,15_3,This process was very enlightening.,0,0,0,0,1,This sentence is general positive feedback about a process and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is general positive feedback about a process and does not describe any form of oppression.""
+}",0,
+15,Sacramento,4,15_4,Thank you!,0,0,0,0,1,The sentence is an expression of gratitude and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is an expression of gratitude and does not describe any form of oppression.""
+}",0,
+16,San Bernardino,0,16_0,"Hi, all.",0,0,0,0,1,The sentence is a simple greeting and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a simple greeting and does not describe any form of oppression.""
+}",0,
+16,San Bernardino,1,16_1,Thanks so much for having us do this exercise.,0,0,0,0,1,This sentence is an expression of gratitude for an activity and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is an expression of gratitude for an activity and does not describe any form of oppression.""
+}",0,
+16,San Bernardino,2,16_2,It was helpful I already know much of this about myself--at least what I could fill out in ten minutes.,0,0,0,0,1,This sentence is a reflection on personal knowledge and the time constraint of an activity. It does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is a reflection on personal knowledge and the time constraint of an activity. It does not describe any form of oppression.""
+}",0,
+16,San Bernardino,3,16_3,But the exercise seems like something that I'd benefit from expanding upon and adding to bit by bit.,0,0,0,0,1,The sentence is feedback on an exercise and does not describe any form of oppression. It falls under 'activity feedback alone should usually be none_or_unclear'.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is feedback on an exercise and does not describe any form of oppression. It falls under 'activity feedback alone should usually be none_or_unclear'.""
+}",0,
+16,San Bernardino,4,16_4,There's something insightful about writing down the details.,0,0,0,0,1,The sentence is a general statement about the insightfulness of writing details and does not describe any form of oppression. It also falls under activity feedback.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general statement about the insightfulness of writing details and does not describe any form of oppression. It also falls under activity feedback.""
+}",0,
+16,San Bernardino,5,16_5,"A highlight: I noticed that pretty much all of my identities really mapped out onto all three areas--personal, interpersonal, and systemic--in different ways.",0,0,0,0,1,"This is a general reflection on how identities connect to different levels (personal, interpersonal, systemic) but does not describe a specific instance or form of oppression, nor does it mention inequality, bias, or mistreatment. It aligns with 'general identity reflection without oppression' and 'activity feedback'.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This is a general reflection on how identities connect to different levels (personal, interpersonal, systemic) but does not describe a specific instance or form of oppression, nor does it mention inequality, bias, or mistreatment. It aligns with 'general identity reflection without oppression' and 'activity feedback'.""
+}",0,
+16,San Bernardino,6,16_6,But it was useful to try to place them on the page and really think about it.,0,0,0,0,1,"The sentence describes an activity or a reflection on an activity, not a form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes an activity or a reflection on an activity, not a form of oppression.""
+}",0,
+16,San Bernardino,7,16_7,"An insight: I noticed that for many people, doing this exercise in a timed and structured way (or in a way that seemed structured, even though it didn't need to be--i.e., we were told it would be fine to just make a list or draw out our map on paper) was more anxiety-provoking than enlightening.",0,0,0,0,1,The sentence describes an observation about how people reacted to an exercise format (anxiety-provoking). This is activity feedback and does not clearly describe any of the four forms of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes an observation about how people reacted to an exercise format (anxiety-provoking). This is activity feedback and does not clearly describe any of the four forms of oppression.""
+}",0,
+16,San Bernardino,8,16_8,That will be something I keep in mind for use in a future class.,0,0,0,0,1,"The sentence describes a future teaching application without mentioning systems, bias, exclusion, inequity, or oppression, aligning with the 'none_or_unclear' guideline for teaching applications and activity feedback.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a future teaching application without mentioning systems, bias, exclusion, inequity, or oppression, aligning with the 'none_or_unclear' guideline for teaching applications and activity feedback.""
+}",0,
+16,San Bernardino,9,16_9,"This is probably something better demonstrated in class, but then given to students to do at home in whatever way works for them.",0,0,0,0,1,The sentence discusses a pedagogical approach (demonstration in class vs. homework) and does not describe or imply any form of oppression. It is a neutral statement about teaching methodology.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence discusses a pedagogical approach (demonstration in class vs. homework) and does not describe or imply any form of oppression. It is a neutral statement about teaching methodology.""
+}",0,
+16,San Bernardino,10,16_10,That might also allow some more creativity from students who benefit from that.,0,0,0,0,1,"The sentence discusses potential benefits for students related to creativity, but it does not describe any form of oppression, bias, inequity, or exclusion. It is a general statement about a positive educational outcome.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence discusses potential benefits for students related to creativity, but it does not describe any form of oppression, bias, inequity, or exclusion. It is a general statement about a positive educational outcome.""
+}",0,
+16,San Bernardino,11,16_11,(Though I'm definitely a process-oriented person and the approach taken in our meeting worked for me!),0,0,0,0,1,The sentence describes a personal preference and a positive experience with a meeting approach. It does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal preference and a positive experience with a meeting approach. It does not describe any form of oppression.""
+}",0,
+16,San Bernardino,12,16_12,Thanks again!,0,0,0,0,1,The sentence is an expression of gratitude and does not describe any form of oppression. It falls under activity feedback.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is an expression of gratitude and does not describe any form of oppression. It falls under activity feedback.""
+}",0,
+17,San Bernardino,0,17_0,I appreciated participating in the identity mapping activity and found that to be the highlight.,0,0,0,0,1,"This sentence is feedback about an activity and does not describe any form of oppression. Per instructions, activity feedback alone should usually be none_or_unclear.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is feedback about an activity and does not describe any form of oppression. Per instructions, activity feedback alone should usually be none_or_unclear.""
+}",0,
+17,San Bernardino,1,17_1,"I completed a similar identity map previously and as in the past, it brings me to a place of gratitude for where I am today and helps me to appreciate my privileged experiences and opportunities thus far.",0,0,0,0,1,"The sentence describes a personal reflection and gratitude for privileged experiences, which is a general identity reflection and activity feedback, not a direct description of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection and gratitude for privileged experiences, which is a general identity reflection and activity feedback, not a direct description of oppression.""
+}",0,
+17,San Bernardino,2,17_2,I understand that I come from a place of privilege and I know that I have a lot to learn from individuals from other backgrounds and with varying lived experiences.,0,0,0,0,1,"The sentence is a personal reflection on privilege and a desire to learn, rather than a description of any specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It acknowledges the existence of privilege, which is related to systemic issues, but does not detail the mechanisms or effects of oppression itself.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a personal reflection on privilege and a desire to learn, rather than a description of any specific form of oppression (ideological, institutionalized, interpersonal, or internalized). It acknowledges the existence of privilege, which is related to systemic issues, but does not detail the mechanisms or effects of oppression itself.""
+}",0,
+17,San Bernardino,3,17_3,"Specifically on the map, when trying to come up with the correct term to describe my identity in relation to the LGBTQI+ community, I found myself frustrated.",0,0,0,1,0,"The sentence describes personal frustration and discomfort with identity when trying to find the 'correct term' to describe oneself, which aligns with internalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes personal frustration and discomfort with identity when trying to find the 'correct term' to describe oneself, which aligns with internalized oppression.""
+}",0,
+17,San Bernardino,4,17_4,I perceive myself as a friend and supporter of the LGBTQI+ community and wanted to identify as an advocate for the community.,0,0,0,0,1,"The sentence describes a positive self-perception and a desire to be an advocate, which is a form of general identity reflection without describing any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a positive self-perception and a desire to be an advocate, which is a form of general identity reflection without describing any specific form of oppression.""
+}",0,
+17,San Bernardino,5,17_5,"I soon realized after the conversation in the live community of practice zoom session, that I don’t know if I have earned that description or if that is how I am perceived.",0,0,0,1,0,"The sentence expresses self-doubt ('I don’t know if I have earned that description') and questioning of one's own perception, which are characteristics of internalized oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 1,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence expresses self-doubt ('I don’t know if I have earned that description') and questioning of one's own perception, which are characteristics of internalized oppression.""
+}",0,
+17,San Bernardino,6,17_6,That was a learning moment for me.,0,0,0,0,1,The sentence is a general reflection on learning and does not describe any form of oppression. It falls under activity feedback.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a general reflection on learning and does not describe any form of oppression. It falls under activity feedback.""
+}",0,
+17,San Bernardino,7,17_7,My hope is that I am perceived as I see myself otherwise I need to work on and commit to better self-awareness and my actions so my perceptions align with my actions.,0,0,0,0,1,"The sentence describes a desire for self-perception to align with external perception and a commitment to self-awareness and actions. It is a statement about personal congruence and self-improvement, not a clear example of any specific form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a desire for self-perception to align with external perception and a commitment to self-awareness and actions. It is a statement about personal congruence and self-improvement, not a clear example of any specific form of oppression.""
+}",0,
+18,San Bernardino,0,18_0,"I didn't post my identity map, but I found it a useful visualization of intersectionality.",0,0,0,0,1,The sentence describes a personal reflection on an activity and a concept (intersectionality) but does not clearly describe any form of oppression. The act of not posting an identity map is ambiguous and not sufficient to indicate internalized oppression without further context.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal reflection on an activity and a concept (intersectionality) but does not clearly describe any form of oppression. The act of not posting an identity map is ambiguous and not sufficient to indicate internalized oppression without further context.""
+}",0,
+18,San Bernardino,1,18_1,"I particularly enjoyed the break-down into individual, interpersonal, and systemic aspects of privilege, because I was prompted to fully explore each aspect of identity.",0,0,0,0,1,"The sentence describes feedback on an activity and a process of reflection on identity and privilege, rather than an example of oppression itself. It's about learning about these concepts.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes feedback on an activity and a process of reflection on identity and privilege, rather than an example of oppression itself. It's about learning about these concepts.""
+}",0,
+18,San Bernardino,2,18_2,The exercise helped me to think about the intersection of my race with mental health and gender.,0,0,0,0,1,"The sentence describes general identity reflection and thinking about the intersection of identities, but it does not explicitly mention or describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes general identity reflection and thinking about the intersection of identities, but it does not explicitly mention or describe any form of oppression.""
+}",0,
+18,San Bernardino,3,18_3,"It also made me more cognizant of aspects of privilege I hadn't considered, such as age.",1,0,0,0,0,"The sentence describes becoming cognizant of 'privilege,' which is often rooted in societal norms, assumptions, and belief systems (ideologies) that grant unearned advantages to certain groups, such as those related to age. This awareness aligns with understanding dominant ideas that justify inequality.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes becoming cognizant of 'privilege,' which is often rooted in societal norms, assumptions, and belief systems (ideologies) that grant unearned advantages to certain groups, such as those related to age. This awareness aligns with understanding dominant ideas that justify inequality.""
+}",0,
+18,San Bernardino,4,18_4,I do think that something like income might be included on the list.,0,0,0,0,1,"The sentence is a suggestion about what might be included on a list, not a description of any form of oppression itself. It does not describe belief systems, institutional practices, interpersonal interactions, or internalized feelings related to oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a suggestion about what might be included on a list, not a description of any form of oppression itself. It does not describe belief systems, institutional practices, interpersonal interactions, or internalized feelings related to oppression.""
+}",0,
+18,San Bernardino,5,18_5,"I know that education and employment roles map onto that, but in my experience, income has been the greatest practical determiner of privilege.",1,1,0,0,0,"The sentence discusses how 'education and employment roles' (institutional) and 'income' (a result of economic systems) are 'determiners of privilege,' indicating how systems and structures create and maintain privilege (institutionalized oppression). The idea that income is the 'greatest practical determiner of privilege' also reflects a dominant societal value or norm that underpins inequality (ideological oppression).","{
+    ""ideological"": 1,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence discusses how 'education and employment roles' (institutional) and 'income' (a result of economic systems) are 'determiners of privilege,' indicating how systems and structures create and maintain privilege (institutionalized oppression). The idea that income is the 'greatest practical determiner of privilege' also reflects a dominant societal value or norm that underpins inequality (ideological oppression).""
+}",0,
+18,San Bernardino,6,18_6,"Those who have it seem to be able to overcome their marginalized status in other areas, and those who do not seem to be under-served even if they belong to other privileged groups demographically.",0,1,0,0,0,"The sentence describes individuals being 'under-served' and having 'marginalized status,' which points to systemic inequities and a lack of access to resources or fair treatment embedded within institutions and formal structures.","{
+    ""ideological"": 0,
+    ""institutionalized"": 1,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes individuals being 'under-served' and having 'marginalized status,' which points to systemic inequities and a lack of access to resources or fair treatment embedded within institutions and formal structures.""
+}",0,
+18,San Bernardino,7,18_7,"But overall, this was a stimulating way to start up conversations about a sensitive topic.",0,0,0,0,1,"This sentence is activity feedback, describing the activity as a 'stimulating way to start up conversations about a sensitive topic.' It does not describe any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is activity feedback, describing the activity as a 'stimulating way to start up conversations about a sensitive topic.' It does not describe any form of oppression.""
+}",0,
+19,San Francisco,0,19_0,"I appreciated walking through each of the identity categories and also the classification for wealth as enough, not enough, etc.",0,0,0,0,1,"The sentence is activity feedback and does not describe any form of oppression. While it mentions identity and wealth categories, it does not discuss them in the context of justifying inequality, systemic issues, interpersonal mistreatment, or internalized beliefs.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is activity feedback and does not describe any form of oppression. While it mentions identity and wealth categories, it does not discuss them in the context of justifying inequality, systemic issues, interpersonal mistreatment, or internalized beliefs.""
+}",0,
+19,San Francisco,1,19_1,What this exercise helped me to realize is how contingent our identities can be on the context and on one another (intersectionality matters).,0,0,0,0,1,"This sentence is a general reflection on the nature of identity and its contingency, including the concept of intersectionality. It does not describe a specific form of oppression, but rather a realization about identity itself. It falls under 'general identity reflection without oppression' and 'activity feedback'.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""This sentence is a general reflection on the nature of identity and its contingency, including the concept of intersectionality. It does not describe a specific form of oppression, but rather a realization about identity itself. It falls under 'general identity reflection without oppression' and 'activity feedback'.""
+}",0,
+19,San Francisco,2,19_2,"I mostly occupy privileged identity positions, but I did reflect on how my gender identity (female) has been a source of violence in my life as others question / challenge my gender identity; I fall outside the normative expectations for womanhood based on height, strength etc.",1,0,1,0,0,"The sentence describes 'others question / challenge my gender identity,' which is interpersonal oppression. It also mentions falling 'outside the normative expectations for womanhood,' which reflects ideological oppression related to societal beliefs and stereotypes about gender.","{
+    ""ideological"": 1,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The sentence describes 'others question / challenge my gender identity,' which is interpersonal oppression. It also mentions falling 'outside the normative expectations for womanhood,' which reflects ideological oppression related to societal beliefs and stereotypes about gender.""
+}",0,
+19,San Francisco,3,19_3,I wonder how these experiences can lend me a source of empathy for target groups in which I am non-target.,0,0,0,0,1,"The sentence is a self-reflection on developing empathy for 'target groups,' which implies an awareness of oppression. However, it does not directly describe ideological, institutionalized, interpersonal, or internalized oppression. It's a reflection on the speaker's capacity for empathy, not a description of the oppression itself or its effects on the speaker's self-perception.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a self-reflection on developing empathy for 'target groups,' which implies an awareness of oppression. However, it does not directly describe ideological, institutionalized, interpersonal, or internalized oppression. It's a reflection on the speaker's capacity for empathy, not a description of the oppression itself or its effects on the speaker's self-perception.""
+}",0,
+20,San Francisco,0,20_0,"Geography: Canada (first immigration place), South of Iran (birthplace), Germany (dream place), California (second immigration place)",0,0,0,0,1,The sentence is a neutral list of geographical locations related to a person's life and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a neutral list of geographical locations related to a person's life and does not describe any form of oppression.""
+}",0,
+21,San Francisco,0,21_0,Race:Balooch (Southern Iranian Race) Religin/Belief system: used to be Muslim (born as a Muslim),0,0,0,0,1,"The sentence is a factual description of race and religion, with no clear indication of any form of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a factual description of race and religion, with no clear indication of any form of oppression.""
+}",0,
+22,San Francisco,0,22_0,"Age: 56 years, my son calls me old a number of times in a month",0,0,1,0,0,The son's repeated calling of the parent 'old' is an example of person-to-person interaction that could be perceived as judgment or mistreatment based on age.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 1,
+    ""internalized"": 0,
+    ""none_or_unclear"": 0,
+    ""rationale"": ""The son's repeated calling of the parent 'old' is an example of person-to-person interaction that could be perceived as judgment or mistreatment based on age.""
+}",0,
+23,San Francisco,0,23_0,"Status: Lecturer Faculty, Instructor",0,0,0,0,1,The sentence describes a professional status and does not contain elements of any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a professional status and does not contain elements of any form of oppression.""
+}",0,
+24,San Francisco,0,24_0,Gender: Male,0,0,0,0,1,The sentence is a simple statement of gender identity and does not describe any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence is a simple statement of gender identity and does not describe any form of oppression.""
+}",0,
+25,San Francisco,0,25_0,Disability: Wearing eye glasses,0,0,0,0,1,"The sentence describes a physical characteristic or assistive device (wearing eyeglasses) in relation to disability. It does not describe an oppressive belief, system, interaction, or internal feeling of oppression.","{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a physical characteristic or assistive device (wearing eyeglasses) in relation to disability. It does not describe an oppressive belief, system, interaction, or internal feeling of oppression.""
+}",0,
+26,San Francisco,0,26_0,Education: First to obtain Phd degree in my generation (Canada),0,0,0,0,1,The sentence describes a personal educational achievement and does not clearly indicate any form of oppression.,"{
+    ""ideological"": 0,
+    ""institutionalized"": 0,
+    ""interpersonal"": 0,
+    ""internalized"": 0,
+    ""none_or_unclear"": 1,
+    ""rationale"": ""The sentence describes a personal educational achievement and does not clearly indicate any form of oppression.""
+}",0,
