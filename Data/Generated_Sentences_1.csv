@@ -1,0 +1,751 @@
+Sentence,Label,data_source
+I was raised around the idea that speaking English without an accent made someone more intelligent.,ideological,base_synthetic
+"People often treat whiteness as the default standard of professionalism, beauty, and respectability.",ideological,base_synthetic
+She learned early that darker skin was described as something to overcome rather than something to value.,ideological,base_synthetic
+The assumption that men are naturally better leaders makes women seem less capable before they even speak.,ideological,base_synthetic
+I noticed how poverty was framed as a personal failure instead of a result of unequal opportunity.,ideological,base_synthetic
+Many people act as though Western culture is more advanced than all other ways of living.,ideological,base_synthetic
+He believed immigrants should be grateful for basic acceptance because they were seen as outsiders by nature.,ideological,base_synthetic
+"Disabled people are often viewed as less complete, as if independence is the only measure of human worth.",ideological,base_synthetic
+"I grew up hearing that boys were logical and girls were emotional, and that belief shaped how everyone was treated.",ideological,base_synthetic
+The idea that straight relationships are more normal makes queer love seem like something that needs explanation.,ideological,base_synthetic
+"People in my community treated lighter skin as proof of beauty, status, and even better character.",ideological,base_synthetic
+The belief that rich people are rich because they are smarter quietly makes poor people seem less deserving.,ideological,base_synthetic
+She was taught that her religion was backward while dominant religious practices were treated as moral and civilized.,ideological,base_synthetic
+Society often assumes that thin bodies show discipline and larger bodies show laziness.,ideological,base_synthetic
+I realized that my name was treated as difficult because it did not fit the dominant culture’s idea of normal.,ideological,base_synthetic
+The stereotype that Black students are naturally less academic makes their achievements seem surprising instead of expected.,ideological,base_synthetic
+Many people assume English-speaking countries have better values simply because they hold more global power.,ideological,base_synthetic
+"He absorbed the message that masculinity meant control, toughness, and never needing help.",ideological,base_synthetic
+The idea that Indigenous knowledge is primitive allows people to dismiss it without understanding it.,ideological,base_synthetic
+I felt pressure to distance myself from my accent because people associated it with ignorance.,ideological,base_synthetic
+"Some people still believe leadership looks male, wealthy, white, and able-bodied.",ideological,base_synthetic
+The belief that women are naturally suited for caregiving makes their ambitions seem selfish.,ideological,base_synthetic
+"People often describe rural communities as uneducated, as though city life automatically makes someone more enlightened.",ideological,base_synthetic
+I noticed that immigrant parents were portrayed as strict or outdated while white parenting styles were called intentional.,ideological,base_synthetic
+The idea that certain nationalities are more hardworking than others turns culture into a ranking system.,ideological,base_synthetic
+She internalized the belief that her natural hair looked less polished than straightened hair.,ideological,base_synthetic
+"Many people assume that being poor means lacking discipline, intelligence, or ambition.",ideological,base_synthetic
+The belief that heterosexuality is the natural path makes other identities seem like deviations.,ideological,base_synthetic
+I was taught that “proper” speech mattered more when people from marginalized communities were speaking.,ideological,base_synthetic
+The assumption that disabled people are inspirational just for existing can still come from seeing them as less capable.,ideological,base_synthetic
+Society often treats youth from wealthy neighborhoods as promising and youth from low-income neighborhoods as risky.,ideological,base_synthetic
+He believed women needed protection because he saw them as weaker rather than equally capable.,ideological,base_synthetic
+The idea that some cultures are more civilized has been used to excuse disrespect toward entire communities.,ideological,base_synthetic
+I noticed that people praised assimilation more than they praised cultural pride.,ideological,base_synthetic
+The stereotype that Muslims are naturally threatening makes ordinary religious expression seem suspicious.,ideological,base_synthetic
+"Many people treat lighter skin, European features, and Western fashion as signs of higher status.",ideological,base_synthetic
+The belief that older adults are less useful makes aging seem like decline instead of a stage of life.,ideological,base_synthetic
+She felt that speaking her family’s language in public made others see her as less American.,ideological,base_synthetic
+The assumption that men should dominate decision-making makes women’s authority appear unnatural.,ideological,base_synthetic
+People often act as though neurotypical communication is the only correct way to think and interact.,ideological,base_synthetic
+I learned that being quiet in school was praised in some children but seen as deficiency in others.,ideological,base_synthetic
+The belief that certain accents sound “educated” gives social value to one group’s way of speaking.,ideological,base_synthetic
+Many people see homelessness as proof of moral weakness rather than a failure of shared responsibility.,ideological,base_synthetic
+The idea that white history is universal history makes everyone else’s history seem optional.,ideological,base_synthetic
+She was made to feel that her traditional clothing was costume-like while Western clothing was simply normal.,ideological,base_synthetic
+Some people assume that queer identities are modern trends rather than real human experiences.,ideological,base_synthetic
+I noticed how men’s anger was seen as strength while women’s anger was treated as instability.,ideological,base_synthetic
+The belief that citizenship determines human worth makes migrants seem less deserving of dignity.,ideological,base_synthetic
+People often rank religions by how closely they resemble dominant cultural beliefs.,ideological,base_synthetic
+The assumption that people with disabilities are burdens reflects a narrow idea of productivity and value.,ideological,base_synthetic
+I used to think success meant becoming acceptable to people who looked down on my community.,ideological,base_synthetic
+The stereotype that Asian students are naturally obedient and high-achieving erases their individuality.,ideological,base_synthetic
+"Many people believe professionalism requires hiding cultural identity, emotion, disability, or difference.",ideological,base_synthetic
+The idea that poor neighborhoods produce inferior people justifies fear instead of understanding.,ideological,base_synthetic
+She heard that women were too sensitive for leadership so often that confidence began to feel unnatural.,ideological,base_synthetic
+The belief that some bodies are more respectable than others shapes who is taken seriously.,ideological,base_synthetic
+People often treat colonial languages as sophisticated and Indigenous languages as outdated.,ideological,base_synthetic
+I noticed that being close to whiteness was treated as a kind of social achievement.,ideological,base_synthetic
+The assumption that men are naturally aggressive excuses behavior that would be criticized in anyone else.,ideological,base_synthetic
+Many people see disability through pity because they assume a disabled life is automatically less meaningful.,ideological,base_synthetic
+The belief that immigrants must erase their culture to belong makes belonging conditional.,ideological,base_synthetic
+She realized that her community’s food was mocked until it became popular among wealthier people.,ideological,base_synthetic
+The idea that poor people should be grateful for less reveals a belief that comfort belongs mainly to the privileged.,ideological,base_synthetic
+People often assume that women who choose not to marry or have children are incomplete.,ideological,base_synthetic
+"I noticed that my culture was described as loud, emotional, or excessive while dominant culture was called confident.",ideological,base_synthetic
+The belief that English fluency equals intelligence makes multilingual people seem less capable when they are still learning.,ideological,base_synthetic
+Some people treat Christianity as the moral center and other religions as strange or threatening.,ideological,base_synthetic
+The assumption that lighter skin is cleaner or more refined reflects a deep ranking of human worth.,ideological,base_synthetic
+"He grew up believing that real men should never show fear, softness, or dependence.",ideological,base_synthetic
+The idea that certain countries are “developed” because their people are superior ignores histories of exploitation.,ideological,base_synthetic
+People often view trans identities as confusion because they assume gender must fit one fixed model.,ideological,base_synthetic
+I realized that my neighborhood was seen as dangerous before anyone cared about the people living there.,ideological,base_synthetic
+The stereotype that Native communities belong only to the past makes their present lives invisible.,ideological,base_synthetic
+"Many people assume that wealth signals virtue, discipline, and better decision-making.",ideological,base_synthetic
+The belief that women’s bodies exist for judgment makes their appearance seem open to public evaluation.,ideological,base_synthetic
+"She was praised for being “not like other girls,” as if femininity itself was something inferior.",ideological,base_synthetic
+The idea that darker skin means toughness or danger shapes how people are imagined before they are known.,ideological,base_synthetic
+People often treat non-Western healing practices as superstition while accepting Western medicine as inherently rational.,ideological,base_synthetic
+"I noticed that my parents’ sacrifices were seen as ordinary labor, while similar efforts by wealthy families were called dedication.",ideological,base_synthetic
+The assumption that queer people must justify their identity comes from treating straightness as the unquestioned norm.,ideological,base_synthetic
+Many people believe that academic language is superior to community knowledge.,ideological,base_synthetic
+The stereotype that Latino men are aggressive and Latina women are submissive reduces entire communities to narrow roles.,ideological,base_synthetic
+The belief that fat people lack self-control makes their bodies seem like public evidence of character.,ideological,base_synthetic
+She felt pressure to sound less “ethnic” because people associated her voice with lower status.,ideological,base_synthetic
+The idea that some people are naturally meant to lead and others to serve is at the center of many inequalities.,ideological,base_synthetic
+People often treat accessibility as special treatment because they assume the able-bodied experience is the standard.,ideological,base_synthetic
+I was taught that success meant leaving behind the customs that made my family recognizable.,ideological,base_synthetic
+The belief that men are better at science and technology discourages girls before their abilities are even tested.,ideological,base_synthetic
+Many people imagine refugees as helpless or suspicious rather than as complex people with skills and histories.,ideological,base_synthetic
+The assumption that dominant beauty standards are universal makes other features seem less desirable.,ideological,base_synthetic
+"She noticed that confidence in a white coworker was called leadership, while the same confidence in her was called attitude.",ideological,base_synthetic
+The idea that certain groups need to be “civilized” reveals a belief in cultural superiority.,ideological,base_synthetic
+People often frame unemployment as laziness while ignoring how class shapes access to opportunity.,ideological,base_synthetic
+I realized that being treated as “articulate” often meant people expected less from someone who looked like me.,ideological,base_synthetic
+The belief that mothers should sacrifice everything makes women’s personal goals seem less important.,ideological,base_synthetic
+"Many people assume that people without college degrees are less intelligent, even when they have deep practical knowledge.",ideological,base_synthetic
+The stereotype that bisexual people are confused comes from the belief that only fixed categories are legitimate.,ideological,base_synthetic
+The idea that dominant groups are neutral while marginalized groups are “political” shapes whose identity is considered normal.,ideological,base_synthetic
+He learned to hide his family’s traditions because classmates treated them as signs of being less modern.,ideological,base_synthetic
+"The belief that one group’s language, body, religion, or culture is the standard makes everyone else seem like they must prove their worth.",ideological,base_synthetic
+"The school’s advanced placement tracks seem open to everyone on paper, but students from wealthier neighborhoods are the ones who consistently get placed into them.",institutionalized,base_synthetic
+I realized that the hospital’s intake forms did not even give my gender identity a place to exist.,institutionalized,base_synthetic
+"The company says promotions are merit-based, yet the leadership pipeline depends heavily on unpaid networking events after hours.",institutionalized,base_synthetic
+"Public transportation cuts in our area made it harder for low-income residents to reach jobs, clinics, and grocery stores.",institutionalized,base_synthetic
+My grandmother’s accent made the citizenship process more intimidating because the office offered almost no language support.,institutionalized,base_synthetic
+"The university claims to support disabled students, but every accommodation requires weeks of paperwork before basic access is granted.",institutionalized,base_synthetic
+Loan policies made it easier for my classmates with family wealth to start businesses while others were treated as financial risks.,institutionalized,base_synthetic
+The hiring algorithm seemed neutral until we learned it had been trained on resumes from a workforce that excluded people like me.,institutionalized,base_synthetic
+"In our district, schools with mostly Black and brown students had outdated textbooks while nearby schools had robotics labs.",institutionalized,base_synthetic
+The shelter’s rules unintentionally excluded trans people by forcing everyone into gender categories that did not fit them.,institutionalized,base_synthetic
+I noticed that unpaid internships quietly decide who gets a career start and who cannot afford to participate.,institutionalized,base_synthetic
+"The court system expected people to appear during work hours, even when missing a shift could mean losing their job.",institutionalized,base_synthetic
+"Our neighborhood received slower emergency response times, and everyone treated it like that was just how the system worked.",institutionalized,base_synthetic
+"The bank denied mortgages in areas where immigrant families lived, even when applicants had steady incomes.",institutionalized,base_synthetic
+A policy written as “professional appearance” ended up punishing natural hairstyles more than actual job performance.,institutionalized,base_synthetic
+The school discipline code labeled the same behavior as “defiance” more often when it came from students of color.,institutionalized,base_synthetic
+I saw how standardized testing rewarded students whose families could afford tutors and quiet study spaces.,institutionalized,base_synthetic
+The city’s zoning decisions placed industrial sites near poor communities while wealthier areas stayed protected.,institutionalized,base_synthetic
+"Medical research guidelines rarely considered people with my background, so treatment recommendations felt incomplete.",institutionalized,base_synthetic
+"The office required government-issued identification for basic services, leaving undocumented residents without support.",institutionalized,base_synthetic
+The university’s financial aid deadlines assumed every student had parents who could quickly provide tax documents.,institutionalized,base_synthetic
+"The workplace offered parental leave, but only full-time salaried employees could actually use it.",institutionalized,base_synthetic
+I began to understand how housing policies can trap families in underfunded schools for generations.,institutionalized,base_synthetic
+The prison system treated addiction as a crime long before treatment was ever offered.,institutionalized,base_synthetic
+The clinic’s online-only appointment system left out elderly patients and families without reliable internet.,institutionalized,base_synthetic
+"Scholarship requirements favored students with long volunteer records, even though some students had to work to support their families.",institutionalized,base_synthetic
+The police department’s patrol patterns made certain neighborhoods feel permanently under suspicion.,institutionalized,base_synthetic
+The insurance company covered some medical needs easily but made mental health care difficult to access.,institutionalized,base_synthetic
+My community college had fewer transfer counselors than the private university had career coaches.,institutionalized,base_synthetic
+"The dress code was presented as neutral, but it reflected one culture’s idea of respectability.",institutionalized,base_synthetic
+"When public benefits require complicated forms, the people who need help most are often the least able to complete them.",institutionalized,base_synthetic
+The immigration office scheduled interviews in a way that forced families to choose between wages and legal status.,institutionalized,base_synthetic
+"The school’s gifted program depended on teacher referrals, which meant bias could become part of the selection process.",institutionalized,base_synthetic
+Rural students in my county had fewer college-prep resources because funding followed property values.,institutionalized,base_synthetic
+"The hospital’s visitation policy ignored chosen family structures, especially for LGBTQ+ patients.",institutionalized,base_synthetic
+I noticed that “open access” to campus resources meant little when the building had no working elevator.,institutionalized,base_synthetic
+The company’s relocation policy favored employees who already had money to move before reimbursement.,institutionalized,base_synthetic
+City planners approved parks and libraries in wealthier districts while our neighborhood kept waiting for basic repairs.,institutionalized,base_synthetic
+The legal system moved faster for people who could afford private attorneys.,institutionalized,base_synthetic
+The school cafeteria’s payment system publicly marked which students could not afford lunch.,institutionalized,base_synthetic
+"The workplace required “local experience,” which blocked qualified immigrants from using their previous professional training.",institutionalized,base_synthetic
+The university celebrated diversity in brochures while its admissions practices still favored legacy applicants.,institutionalized,base_synthetic
+"Public health messages were distributed only in English, leaving many families without critical information.",institutionalized,base_synthetic
+The agency’s background check policy made it hard for formerly incarcerated people to rebuild stable lives.,institutionalized,base_synthetic
+The hospital’s pain assessment practices seemed to underestimate patients from certain racial groups.,institutionalized,base_synthetic
+The school board’s funding formula treated unequal starting points as if they were equal.,institutionalized,base_synthetic
+I saw how voter ID requirements created barriers for people without stable housing or transportation.,institutionalized,base_synthetic
+"The company’s leadership training was invitation-only, and the invitations kept going to the same kind of employees.",institutionalized,base_synthetic
+"The welfare office required repeated in-person visits, which punished people who lacked childcare or paid time off.",institutionalized,base_synthetic
+"Disability support existed, but the process made students prove their needs over and over again.",institutionalized,base_synthetic
+The curriculum treated European history as central and everyone else’s history as an optional unit.,institutionalized,base_synthetic
+Public schools in my city were separated by housing patterns that earlier policies had helped create.,institutionalized,base_synthetic
+"The hiring process valued elite university names more than skill, narrowing opportunity before interviews even began.",institutionalized,base_synthetic
+The hospital assumed every patient had someone available to drive them home after treatment.,institutionalized,base_synthetic
+The landlord screening system rejected applicants with housing vouchers before meeting them.,institutionalized,base_synthetic
+The university’s complaint procedure was so confusing that many students gave up before reporting discrimination.,institutionalized,base_synthetic
+The city’s budget choices showed which neighborhoods were considered worth investment.,institutionalized,base_synthetic
+The workplace provided prayer space only after Muslim employees formally requested what others already had by default.,institutionalized,base_synthetic
+The school’s attendance policy punished students who missed class because of unstable housing or family responsibilities.,institutionalized,base_synthetic
+"The justice system required cash bail, turning poverty into pretrial detention.",institutionalized,base_synthetic
+The library’s limited hours made it harder for working families to access computers and study spaces.,institutionalized,base_synthetic
+"The medical forms assumed heterosexual relationships, making some patients explain their lives before receiving care.",institutionalized,base_synthetic
+The college required expensive application fees that discouraged students from applying broadly.,institutionalized,base_synthetic
+The company’s health plan excluded certain gender-affirming care while covering comparable procedures for others.,institutionalized,base_synthetic
+The district placed newer teachers in schools with the highest needs and the fewest supports.,institutionalized,base_synthetic
+The tax system gave homeowners advantages that renters in my community could never access.,institutionalized,base_synthetic
+"The office promoted “culture fit,” but that phrase quietly protected the preferences of the existing leadership.",institutionalized,base_synthetic
+The school’s language policy treated bilingual students as deficient instead of recognizing their skills.,institutionalized,base_synthetic
+"The clinic’s location made sense for administrators, not for the patients who relied on buses.",institutionalized,base_synthetic
+The foster care system separated siblings because institutional convenience mattered more than family bonds.,institutionalized,base_synthetic
+The university’s study abroad scholarships favored students who could pay upfront and wait for reimbursement.,institutionalized,base_synthetic
+"The city required permits for street vending, but the process was too expensive and complicated for immigrant vendors.",institutionalized,base_synthetic
+The workplace measured productivity in ways that penalized employees managing chronic illness.,institutionalized,base_synthetic
+The criminal record question on applications closed doors long after people had completed their sentences.,institutionalized,base_synthetic
+"The school’s technology policy assumed every child had a laptop, Wi-Fi, and a quiet room at home.",institutionalized,base_synthetic
+The hospital’s religious accommodations were handled as exceptions instead of normal patient needs.,institutionalized,base_synthetic
+The organization’s recruitment strategy relied on professional networks that excluded first-generation graduates.,institutionalized,base_synthetic
+The neighborhood’s lack of banks forced residents toward higher-fee financial services.,institutionalized,base_synthetic
+The university’s research funding favored topics valued by powerful institutions over issues affecting marginalized communities.,institutionalized,base_synthetic
+The state’s disability benefits system made people prove they were struggling while limiting how much they could earn.,institutionalized,base_synthetic
+The school’s bathroom policy made daily attendance unsafe for some transgender students.,institutionalized,base_synthetic
+The company’s unpaid training period screened out applicants who could not work without income.,institutionalized,base_synthetic
+The county closed clinics in low-income areas and then blamed residents for poor health outcomes.,institutionalized,base_synthetic
+"The admissions process rewarded extracurricular achievements that required money, transportation, and free time.",institutionalized,base_synthetic
+The housing authority’s long waitlists made assistance feel theoretical rather than available.,institutionalized,base_synthetic
+The legal documents were written in language so complex that only people with support could fully understand them.,institutionalized,base_synthetic
+"The workplace’s “always available” expectation disadvantaged caregivers, disabled employees, and people working second jobs.",institutionalized,base_synthetic
+The school resource officer program increased surveillance in some schools instead of increasing counseling support.,institutionalized,base_synthetic
+The refugee services office expected families to navigate multiple agencies without translators or caseworkers.,institutionalized,base_synthetic
+The company’s benefits package did not recognize domestic partnerships until employees pushed for policy changes.,institutionalized,base_synthetic
+"The government website for aid applications was not accessible to screen readers, excluding people before they could even apply.",institutionalized,base_synthetic
+The district’s property-tax funding model meant a child’s education depended heavily on neighborhood wealth.,institutionalized,base_synthetic
+The medical residency selection process favored applicants who could afford unpaid research years.,institutionalized,base_synthetic
+The prison phone system charged families high fees just to maintain contact with loved ones.,institutionalized,base_synthetic
+The school’s zero-tolerance policy created a pipeline from minor rule violations to suspension and court involvement.,institutionalized,base_synthetic
+"The city placed homeless services far from public transit, making help difficult to reach for the people it was meant to serve.",institutionalized,base_synthetic
+The workplace’s English-only rule limited employees’ expression even when safety or performance was not affected.,institutionalized,base_synthetic
+"The university offered mental health counseling, but the waitlist was so long that access depended on who could pay privately.",institutionalized,base_synthetic
+The licensing board made foreign-trained professionals repeat years of education instead of fairly evaluating their experience.,institutionalized,base_synthetic
+"The institution called its process equal because everyone filled out the same form, but the form ignored the unequal conditions people brought with them.",institutionalized,base_synthetic
+I noticed how the cashier smiled at everyone ahead of me but became cold and suspicious when it was my turn.,interpersonal,base_synthetic
+"He kept interrupting her during the meeting, then praised a male coworker for repeating the same idea.",interpersonal,base_synthetic
+My classmate asked if I got into the program because of diversity rather than my qualifications.,interpersonal,base_synthetic
+She laughed at my accent and told me my English was “surprisingly good.”,interpersonal,base_synthetic
+They stopped inviting him to lunch after he mentioned that he was Muslim.,interpersonal,base_synthetic
+A customer refused to let my coworker help them because she was wearing a hijab.,interpersonal,base_synthetic
+"I felt embarrassed when someone grabbed my wheelchair without asking, as if my body was public property.",interpersonal,base_synthetic
+"The group went quiet when I walked in, then continued the conversation in a way that made it clear I was not welcome.",interpersonal,base_synthetic
+My supervisor kept calling me “young lady” even after I asked him to use my name.,interpersonal,base_synthetic
+A teammate joked that I must be good at math because I am Asian.,interpersonal,base_synthetic
+"She told me I did not “look disabled,” then questioned whether I really needed accommodations.",interpersonal,base_synthetic
+He assumed I was the assistant instead of the project lead because I was the only woman in the room.,interpersonal,base_synthetic
+My neighbor clutched her purse when my brother and I entered the elevator.,interpersonal,base_synthetic
+They mocked his traditional clothing and called it a costume.,interpersonal,base_synthetic
+A professor kept mispronouncing my name but learned everyone else’s names correctly.,interpersonal,base_synthetic
+My coworker said I was “too emotional” after I calmly disagreed with his decision.,interpersonal,base_synthetic
+The server ignored our table until my white friend asked for assistance.,interpersonal,base_synthetic
+She asked my adopted child where he was “really from” in front of everyone.,interpersonal,base_synthetic
+He told me I was “brave” for going out in public with a visible facial difference.,interpersonal,base_synthetic
+My classmates treated me like a spokesperson for every immigrant experience.,interpersonal,base_synthetic
+A stranger told us our relationship was “just a phase” when he saw me holding my boyfriend’s hand.,interpersonal,base_synthetic
+She kept touching my hair without permission and acted offended when I pulled away.,interpersonal,base_synthetic
+"The interviewer spoke slowly to me after hearing my last name, as though I could not understand basic questions.",interpersonal,base_synthetic
+He made a joke about poor people being lazy while knowing I grew up in public housing.,interpersonal,base_synthetic
+My lab partner refused to work with me because she believed women were not suited for technical tasks.,interpersonal,base_synthetic
+They complimented my outfit by saying I looked “less ethnic” than usual.,interpersonal,base_synthetic
+A man at the gym told my friend she was too strong-looking to be feminine.,interpersonal,base_synthetic
+My roommate hid his religious items because visitors kept making rude comments about them.,interpersonal,base_synthetic
+She assumed I was angry when I was simply explaining my point.,interpersonal,base_synthetic
+"He asked whether my parents forced me into my cultural traditions, even though he barely knew me.",interpersonal,base_synthetic
+The host seated us near the kitchen while giving better tables to other guests who arrived later.,interpersonal,base_synthetic
+My coworker imitated my father’s accent for laughs during a staff meeting.,interpersonal,base_synthetic
+They kept asking invasive questions about my body after learning I am transgender.,interpersonal,base_synthetic
+A classmate said I was “articulate” in a tone that made it feel like an exception to what they expected.,interpersonal,base_synthetic
+He refused to shake her hand because she was a woman.,interpersonal,base_synthetic
+My friend was told she should straighten her hair to look more “professional.”,interpersonal,base_synthetic
+The nurse spoke to my adult son instead of speaking directly to me because I use a communication device.,interpersonal,base_synthetic
+Someone assumed I was in the building to clean it rather than attend the conference.,interpersonal,base_synthetic
+She rolled her eyes when I mentioned dietary restrictions connected to my religion.,interpersonal,base_synthetic
+My manager joked that older employees are bad with technology while assigning me the simplest tasks.,interpersonal,base_synthetic
+He told my sister she was “too pretty” to be interested in engineering.,interpersonal,base_synthetic
+A group of students moved away from me after hearing me speak Spanish on the phone.,interpersonal,base_synthetic
+The coach praised aggressive behavior in boys but called the same behavior disrespectful when girls showed it.,interpersonal,base_synthetic
+My coworker asked if my natural hairstyle was allowed under the company dress code.,interpersonal,base_synthetic
+They treated my rural background like proof that I was uneducated.,interpersonal,base_synthetic
+A stranger told my friend she should “go back” to a country she has never lived in.,interpersonal,base_synthetic
+He kept asking who “the man” was in our relationship after learning we were both women.,interpersonal,base_synthetic
+My classmates laughed when I could not afford to join their weekend trip.,interpersonal,base_synthetic
+She assumed my silence meant I was submissive rather than simply uncomfortable.,interpersonal,base_synthetic
+The security guard followed my cousin through the store while ignoring other shoppers.,interpersonal,base_synthetic
+My professor dismissed my concern as “cultural sensitivity” instead of listening to what happened.,interpersonal,base_synthetic
+"He told me I was “not like other Black people,” expecting me to take it as a compliment.",interpersonal,base_synthetic
+A coworker said my lunch smelled weird and made a face in front of the whole break room.,interpersonal,base_synthetic
+They spoke over my deaf colleague instead of waiting for the interpreter to finish.,interpersonal,base_synthetic
+My friend stopped sharing in class because other students kept mocking his stutter.,interpersonal,base_synthetic
+She assumed the Latina nurse was there to translate rather than provide medical care.,interpersonal,base_synthetic
+He made fun of my thrifted clothes and said I looked like I came from a “charity bin.”,interpersonal,base_synthetic
+A date told me my bisexuality made me untrustworthy.,interpersonal,base_synthetic
+"My teammate acted surprised every time I performed well, as if competence from me was unexpected.",interpersonal,base_synthetic
+"The landlord’s agent directed all questions to my husband, even though I was the one renting the apartment.",interpersonal,base_synthetic
+They excluded my coworker from happy hour because they thought his sobriety would make things awkward.,interpersonal,base_synthetic
+A classmate told me my scholarship was unfair because people like me “get special treatment.”,interpersonal,base_synthetic
+She asked my friend if his service dog was just an excuse to bring a pet everywhere.,interpersonal,base_synthetic
+He joked that women drivers are dangerous right after I parked the car.,interpersonal,base_synthetic
+My peers treated my religious fasting like an inconvenience to their plans.,interpersonal,base_synthetic
+A customer demanded to speak to someone “more qualified” after seeing that the technician was a young woman.,interpersonal,base_synthetic
+They called my neighborhood “sketchy” after I mentioned where I grew up.,interpersonal,base_synthetic
+My coworker kept using the wrong pronouns and then said I was making everyone uncomfortable by correcting him.,interpersonal,base_synthetic
+She told me I should be grateful for any job because people from my background do not usually get opportunities.,interpersonal,base_synthetic
+A group project member assumed I would do the decorating instead of the analysis because I am female.,interpersonal,base_synthetic
+He stared at my skin condition throughout the conversation and barely listened to what I was saying.,interpersonal,base_synthetic
+My friend was teased for bringing homemade food instead of buying lunch like everyone else.,interpersonal,base_synthetic
+They asked whether I was “legal” after learning that my family immigrated here.,interpersonal,base_synthetic
+A teacher complimented my son by saying he was “well-behaved for a boy like him.”,interpersonal,base_synthetic
+She treated my grandmother like a child because she did not speak fluent English.,interpersonal,base_synthetic
+My colleague joked that my traditional name was too difficult and gave me a nickname I never asked for.,interpersonal,base_synthetic
+He assumed my family was poor because we use public transportation.,interpersonal,base_synthetic
+A stranger told my sister that her headscarf made her look oppressed.,interpersonal,base_synthetic
+The team ignored my suggestion until the most senior man repeated it with confidence.,interpersonal,base_synthetic
+My friend was told he did not seem “gay enough” to understand queer issues.,interpersonal,base_synthetic
+"She asked if my disability made dating impossible, as if my personal life was a public lesson.",interpersonal,base_synthetic
+They laughed when I said I was the first in my family to attend college.,interpersonal,base_synthetic
+A coworker said I only got promoted because the company wanted to look inclusive.,interpersonal,base_synthetic
+"He kept comparing me to another person from my country, even though we have nothing in common.",interpersonal,base_synthetic
+My classmates made jokes about my skin tone during a discussion that had nothing to do with race.,interpersonal,base_synthetic
+The receptionist assumed I was there for financial aid instead of a faculty appointment.,interpersonal,base_synthetic
+She told my friend his depression was just a lack of discipline.,interpersonal,base_synthetic
+A neighbor avoided sharing the elevator with my father after seeing his turban.,interpersonal,base_synthetic
+He mocked my pronunciation instead of responding to the point I was making.,interpersonal,base_synthetic
+"My boss described me as “aggressive” for negotiating, while calling my male coworker confident for doing the same.",interpersonal,base_synthetic
+They treated my single mother as irresponsible before learning anything about her life.,interpersonal,base_synthetic
+A classmate said my culture was “too strict” after one brief conversation about my family.,interpersonal,base_synthetic
+She asked whether I could handle the job because I use a cane.,interpersonal,base_synthetic
+He made jokes about immigrants taking opportunities while sitting next to me at work.,interpersonal,base_synthetic
+My peers stopped talking openly around me after they learned I was from a different religion.,interpersonal,base_synthetic
+A store employee assumed my friend could not afford the item and suggested a cheaper section.,interpersonal,base_synthetic
+She told me my voice sounded “too masculine” for a woman.,interpersonal,base_synthetic
+They ignored the older applicant during the group interview and directed all technical questions to younger candidates.,interpersonal,base_synthetic
+A coworker treated my quietness as evidence that I lacked leadership ability.,interpersonal,base_synthetic
+He made me feel unwelcome by repeatedly questioning whether someone like me belonged in that space.,interpersonal,base_synthetic
+I sometimes catch myself believing I have to sound less like my family to be taken seriously.,internalized,base_synthetic
+"She felt embarrassed when her traditional clothes made her stand out, even though they once made her proud.",internalized,base_synthetic
+He assumed his accent made him seem less intelligent before anyone had even judged him.,internalized,base_synthetic
+I kept telling myself that people like me are not meant for leadership roles.,internalized,base_synthetic
+They laughed at jokes about their own community because disagreeing felt too risky.,internalized,base_synthetic
+I used to think being quiet about my identity made me more respectable.,internalized,base_synthetic
+She blamed herself for needing accommodations and wondered if she was just being difficult.,internalized,base_synthetic
+He avoided speaking his native language in public because he thought it made him seem uneducated.,internalized,base_synthetic
+I felt proud when someone said I did not “act like” others from my background.,internalized,base_synthetic
+They believed success meant distancing themselves from the neighborhood that raised them.,internalized,base_synthetic
+I questioned whether my cultural traditions were holding me back.,internalized,base_synthetic
+She felt ashamed of her body because she had absorbed the idea that only one kind of beauty mattered.,internalized,base_synthetic
+"He thought asking for mental health support would make him weak, just like people had said about men in his family.",internalized,base_synthetic
+I tried to erase parts of my identity because I thought acceptance required becoming less visible.,internalized,base_synthetic
+"They secretly believed their community was too loud, too emotional, or too much.",internalized,base_synthetic
+"I felt uncomfortable when people from my background spoke openly, because I had learned to value silence over honesty.",internalized,base_synthetic
+She believed she had to outperform everyone just to prove she was not a stereotype.,internalized,base_synthetic
+He saw his disability as a personal failure instead of part of how he moved through the world.,internalized,base_synthetic
+I avoided foods from my culture because I thought they made me seem strange.,internalized,base_synthetic
+They assumed their poverty meant they were less disciplined than people with more money.,internalized,base_synthetic
+I felt guilty taking up space in rooms where people like me were rarely represented.,internalized,base_synthetic
+She apologized for her religious practices even when no one had complained.,internalized,base_synthetic
+He believed that being accepted meant hiding how much his family struggled financially.,internalized,base_synthetic
+I sometimes felt less professional when I wore my natural hair.,internalized,base_synthetic
+They minimized their own experiences because they thought others had “real” problems.,internalized,base_synthetic
+I convinced myself that my community’s stories were less important than the ones taught in school.,internalized,base_synthetic
+She felt uncomfortable using her real name because she believed it sounded too foreign.,internalized,base_synthetic
+"He thought being emotional made him less masculine, even when he was simply being honest.",internalized,base_synthetic
+"I felt embarrassed when my parents struggled with English, as if their effort reflected badly on me.",internalized,base_synthetic
+They believed being disabled meant they should expect less from life.,internalized,base_synthetic
+I rejected my own dialect because I thought it made me sound careless.,internalized,base_synthetic
+She avoided talking about her sexuality because she had learned to see it as something private and shameful.,internalized,base_synthetic
+He believed that people from his country were naturally behind others.,internalized,base_synthetic
+"I thought I had to be grateful for any opportunity, even when I deserved better.",internalized,base_synthetic
+They felt proud of being called “different” from others in their marginalized group.,internalized,base_synthetic
+I treated my own cultural knowledge like it was less valuable than academic knowledge.,internalized,base_synthetic
+She felt pressure to be agreeable because she believed women who spoke firmly were difficult.,internalized,base_synthetic
+He wondered if his immigration background made him less capable of fitting into professional spaces.,internalized,base_synthetic
+I avoided community events because I thought they made me seem less modern.,internalized,base_synthetic
+They believed their family’s traditions were embarrassing instead of meaningful.,internalized,base_synthetic
+I felt like my success only counted if it was approved by people outside my community.,internalized,base_synthetic
+She assumed her darker skin made her less attractive before anyone said a word.,internalized,base_synthetic
+He believed that needing extra time meant he was not smart enough.,internalized,base_synthetic
+I felt ashamed of my working-class background and tried to make my childhood sound more polished.,internalized,base_synthetic
+They believed their gender identity made them a burden to the people around them.,internalized,base_synthetic
+I caught myself thinking that people from my group were too sensitive when they talked about harm.,internalized,base_synthetic
+She tried to make her voice softer because she feared being seen as aggressive.,internalized,base_synthetic
+He felt embarrassed by his traditional religion and described it vaguely to avoid judgment.,internalized,base_synthetic
+I believed my family’s way of speaking sounded less educated than standard English.,internalized,base_synthetic
+"They assumed that being poor meant they had made bad choices, even as children.",internalized,base_synthetic
+I avoided correcting people who mispronounced my name because I thought my name was the problem.,internalized,base_synthetic
+She believed she had to hide her chronic illness to be seen as reliable.,internalized,base_synthetic
+He felt uncomfortable around openly queer people because he had been taught to fear that part of himself.,internalized,base_synthetic
+"I thought my community’s anger was embarrassing, even when it came from pain.",internalized,base_synthetic
+They saw assimilation as proof of maturity and cultural pride as something childish.,internalized,base_synthetic
+I felt less worthy when I could not afford the same experiences as my classmates.,internalized,base_synthetic
+She believed that being a mother made her less serious as a professional.,internalized,base_synthetic
+"He thought his skin color made him automatically suspicious, even in safe spaces.",internalized,base_synthetic
+I tried to sound neutral because I believed my accent carried too much history.,internalized,base_synthetic
+They felt ashamed for needing public assistance and treated it like a moral flaw.,internalized,base_synthetic
+I believed I had to laugh at comments about my group to seem easygoing.,internalized,base_synthetic
+She assumed her hijab made her look less independent.,internalized,base_synthetic
+He felt pressure to reject his community’s customs to appear more educated.,internalized,base_synthetic
+I thought being first-generation meant I was always behind everyone else.,internalized,base_synthetic
+They believed their trauma made them damaged rather than resilient.,internalized,base_synthetic
+I felt uncomfortable being visibly proud of my identity because pride seemed arrogant.,internalized,base_synthetic
+She believed her body was wrong because it did not match dominant beauty standards.,internalized,base_synthetic
+He treated his family’s labor jobs as something to hide instead of honor.,internalized,base_synthetic
+I questioned whether I belonged in graduate school because no one in my family had gone before me.,internalized,base_synthetic
+They assumed their rural background made them less sophisticated.,internalized,base_synthetic
+I felt ashamed when my cultural values did not match what mainstream success looked like.,internalized,base_synthetic
+She believed that speaking up about sexism would make her seem bitter.,internalized,base_synthetic
+He thought his learning disability meant he should avoid ambitious goals.,internalized,base_synthetic
+I judged myself for not being able to pass as part of the dominant culture.,internalized,base_synthetic
+They believed their community needed to become more like the dominant group to be respected.,internalized,base_synthetic
+I felt uneasy when my family showed affection loudly in public because I had learned to see it as embarrassing.,internalized,base_synthetic
+She avoided sharing her pronouns because she thought her identity was too complicated for others.,internalized,base_synthetic
+He believed his refugee background made him seem less capable than his peers.,internalized,base_synthetic
+I felt like I had to prove I was “one of the good ones” whenever my group was criticized.,internalized,base_synthetic
+They mistook self-erasure for confidence because fitting in felt safer than being seen.,internalized,base_synthetic
+I believed my natural way of speaking needed to be corrected before I could be respected.,internalized,base_synthetic
+She felt ashamed of being single because she had internalized the idea that women are incomplete without marriage.,internalized,base_synthetic
+He thought his culture’s music and art were less refined than Western forms.,internalized,base_synthetic
+I felt guilty for needing support because I believed independence was the only respectable way to live.,internalized,base_synthetic
+They avoided using mobility aids because they thought visible disability would make them seem less capable.,internalized,base_synthetic
+"I felt proud when people said I was not like “those people,” even though they meant my own community.",internalized,base_synthetic
+She believed her age made her less valuable in spaces that praised youth.,internalized,base_synthetic
+He avoided discussing his family’s immigration story because he thought it made him seem less American.,internalized,base_synthetic
+I treated my own discomfort as overreacting because I had learned not to trust my experiences.,internalized,base_synthetic
+They believed that hiding their cultural background was the price of professionalism.,internalized,base_synthetic
+I felt ashamed for not knowing how to code-switch perfectly in every setting.,internalized,base_synthetic
+She saw her own ambition as selfish because she had been taught that women should not want too much.,internalized,base_synthetic
+He assumed his community’s struggles came from weakness rather than generations of pressure.,internalized,base_synthetic
+I avoided mirrors because I had absorbed messages that features like mine were unattractive.,internalized,base_synthetic
+They believed their nontraditional family structure made them less respectable.,internalized,base_synthetic
+I thought I had to reject my parents’ worldview completely to be considered educated.,internalized,base_synthetic
+She felt embarrassed asking for prayer space because she had learned to treat her faith as inconvenient.,internalized,base_synthetic
+He believed his sexuality made him less worthy of being loved openly.,internalized,base_synthetic
+I minimized my accomplishments because I thought people like me only succeed by luck.,internalized,base_synthetic
+"They felt ashamed of needing translation help, as if language barriers meant they were less intelligent.",internalized,base_synthetic
+"It struck me that my commitment to ""tough love"" grading is essentially enforcing a departmental curve that guarantees a certain percentage of first-generation students will fail.",institutionalized,contrastive_synthetic
+"We talk a lot about confronting our internal biases, but the real wake-up call was seeing how our standardized late-work penalties automatically disproportionately punish students who rely on public transit.",institutionalized,contrastive_synthetic
+"The assumption that students should just ""know how to study"" is deeply embedded in the way our program designs these high-stakes mid-term-only assessments.",institutionalized,contrastive_synthetic
+"I always thought I was just holding high standards, yet our required prerequisite chain acts as a massive structural filter that weeds out non-traditional students before they even reach my class.",institutionalized,contrastive_synthetic
+"While I’ve been reflecting on my own assumptions about student motivation, I didn't see how the university's strict drop deadline forces marginalized students to make impossible financial choices.",institutionalized,contrastive_synthetic
+It’s uncomfortable to admit that my belief in meritocracy has been masking the fact that our program's reliance on expensive third-party homework platforms actively prices people out of a passing grade.,institutionalized,contrastive_synthetic
+"We focus so much on dismantling deficit thinking in our heads, yet our required syllabus template literally starts with a list of punitive policies that assume the worst of our students.",institutionalized,contrastive_synthetic
+"I used to think students skipping office hours meant they lacked dedication, completely ignoring that our campus commuter schedule makes it structurally impossible for most of them to attend at 3 PM.",institutionalized,contrastive_synthetic
+"Examining my own stereotypes was helpful, but the bigger issue is how our department’s mandatory placement exams systematically funnel bilingual students into endless remedial tracks.",institutionalized,contrastive_synthetic
+Believing that everyone has an equal shot if they try hard enough ignores how our reliance on closed-book timed exams actively disadvantages those relying on our understaffed accessibility office.,institutionalized,contrastive_synthetic
+It never occurred to me that my traditional views on professionalism were actively written into our clinical rotation guidelines to effectively penalize anyone from a lower-income background.,institutionalized,contrastive_synthetic
+"We spend so much time talking about unconscious bias in grading, but the sheer volume of required reading we mandate every week functions as a systemic barrier for students working full shifts.",institutionalized,contrastive_synthetic
+I’ve realized that my assumptions about academic readiness are actually codified in the way our college restricts access to upper-division advising.,institutionalized,contrastive_synthetic
+The idea that rigorous science courses must serve as gatekeepers is a cultural belief our department has translated into grading curves that predictably cut out underrepresented minorities.,institutionalized,contrastive_synthetic
+Challenging my own deficit mindset made me look at how our financial aid disbursement dates rarely align with the day we require access to course software.,institutionalized,contrastive_synthetic
+"I always blamed students' lack of focus, but our hybrid course structure demands a level of at-home tech infrastructure that a huge portion of our district simply does not possess.",institutionalized,contrastive_synthetic
+The assumption that true learning only happens through synchronous participation is deeply woven into an attendance policy that severely docks points from student parents.,institutionalized,contrastive_synthetic
+"It’s easy to say we value diversity, but our core curriculum requirements still exclusively rely on a canon that marginalizes non-Western epistemologies by design.",institutionalized,contrastive_synthetic
+Unpacking my beliefs about student resilience brought to light how the university's complex petition process for emergency withdrawals is a bureaucratic nightmare that deters the most vulnerable.,institutionalized,contrastive_synthetic
+My bias toward students who speak up in class meant I never questioned why our departmental rubric weighs vocal participation so heavily over written reflection.,institutionalized,contrastive_synthetic
+The deficit narrative that students just don't read distracted me from the reality that our campus bookstore delays regularly leave half the class without texts for the first three weeks.,institutionalized,contrastive_synthetic
+"I thought my strict no-extensions rule was about teaching responsibility, but it’s actually a localized policy that disproportionately fails students experiencing housing insecurity.",institutionalized,contrastive_synthetic
+"We keep discussing our personal blind spots, yet we continue to enforce a registration sequence that leaves pell-eligible students with the worst possible course schedules.",institutionalized,contrastive_synthetic
+Recognizing my own savior complex also meant acknowledging how our honors college admissions rubric explicitly favors students from highly funded high schools.,institutionalized,contrastive_synthetic
+The belief that good students ask for help early is baked into an academic probation system that waits until week eight to offer any institutional intervention.,institutionalized,contrastive_synthetic
+My assumptions about what constitutes a good writer are unfortunately hardwired into the university’s writing center guidelines that historically pathologize multilingual students.,institutionalized,contrastive_synthetic
+Viewing students as underprepared is a mindset that directly justifies our department's refusal to offer supplemental instruction for introductory math courses.,institutionalized,contrastive_synthetic
+I finally see how my internal biases about engagement blinded me to the fact that our mandatory evening review sessions structurally exclude students with caregiving responsibilities.,institutionalized,contrastive_synthetic
+The idea that everyone has the same 24 hours in a day is a myth we’ve normalized through credit-hour loads that basically require students to not have a job.,institutionalized,contrastive_synthetic
+It’s jarring to realize that the stereotypes I hold about student accountability are exactly what shaped the rigid zero-tolerance academic integrity software our college forces us to use.,institutionalized,contrastive_synthetic
+"While I've actively tried to unlearn my own stereotypes, our financial aid verification process still automatically flags and delays funding for first-generation families at an alarming rate.",institutionalized,contrastive_synthetic
+Believing that traditional academic English is the only marker of intelligence has allowed our grading committees to uphold rubrics that continuously penalize dialectal variations.,institutionalized,contrastive_synthetic
+"I used to get frustrated by students who wouldn't participate in field trips, not realizing that the liability waiver process and mandatory transportation fees create a hard barrier for them.",institutionalized,contrastive_synthetic
+The notion that serious students figure things out on their own is a harmful ideology that justifies our college's completely decentralized and nearly unnavigable advising framework.,institutionalized,contrastive_synthetic
+My implicit biases about tech-savviness made me completely overlook how the forced transition to an entirely cloud-based workflow locks out students without consistent home Wi-Fi.,institutionalized,contrastive_synthetic
+"We pat ourselves on the back for being inclusive, yet the prerequisite algorithm in our registration software actively blocks students from taking co-requisite support labs.",institutionalized,contrastive_synthetic
+"Assuming that a lack of eye contact means disrespect is a personal bias, but hardcoding professional demeanor into our grading software makes it a systemic penalty for neurodivergent students.",institutionalized,contrastive_synthetic
+It’s hard to admit that my belief in weeding out the weak is exactly what sustains our department's refusal to align the lab curriculum with the lecture material.,institutionalized,contrastive_synthetic
+Taking a hard look at my deficit thinking made me realize that our campus policy of deregistering students for minor bursar holds is the real reason they aren't succeeding.,institutionalized,contrastive_synthetic
+"I’ve always valued grit, but the way our university structures mental health services with month-long waitlists turns perseverance into a requirement for basic survival.",institutionalized,contrastive_synthetic
+The assumption that STEM requires a specific type of innate brilliance has historically driven the design of our introductory sequences to intentionally overwhelm rather than teach.,institutionalized,contrastive_synthetic
+"I used to equate poor grammar with laziness, completely ignoring how the lack of a centralized campus writing center leaves under-resourced students entirely on their own.",institutionalized,contrastive_synthetic
+Unpacking my beliefs about independent learning led me to see how our distance-education policies actually shift the burden of instructional design onto the students themselves.,institutionalized,contrastive_synthetic
+"We tell ourselves that blind grading eliminates bias, but the standardized exams we use are inherently normed against a demographic that doesn't reflect our actual student body.",institutionalized,contrastive_synthetic
+"My expectation that students should instantly understand campus bureaucracy was rooted in privilege, and it blinded me to how broken the financial aid appeal structure really is.",institutionalized,contrastive_synthetic
+The cultural assumption that college is a full-time residential experience is still driving a master schedule that offers almost zero required courses after 5 PM.,institutionalized,contrastive_synthetic
+"I thought I was just being fair by applying the same late penalty to everyone, forgetting that equality in a system with massive digital divide issues is just another form of exclusion.",institutionalized,contrastive_synthetic
+Confronting my own stereotypes about student maturity made me realize that our mandatory freshman orientation modules are designed around a highly privileged traditional eighteen-year-old experience.,institutionalized,contrastive_synthetic
+The belief that extra credit is a reward for the most dedicated ignores the fact that our department only offers it for off-campus events that require reliable private transportation.,institutionalized,contrastive_synthetic
+My mindset that failure is just a part of the learning process masked the reality that the college’s rigid repeat-policy prevents those who need a second chance from ever getting one.,institutionalized,contrastive_synthetic
+My deficit assumptions really showed up in how quickly I dismissed Maria's question about the syllabus during office hours.,interpersonal,contrastive_synthetic
+"During the workshop, it hit me that the tone of my written feedback is much harsher for students I unconsciously view as unprepared.",interpersonal,contrastive_synthetic
+I've been letting dominant cultural norms dictate the classroom discussion by allowing the same three men to constantly talk over their peers.,interpersonal,contrastive_synthetic
+"Looking back at yesterday's lab, my implicit bias definitely influenced why I stood closer to the male groups and offered them more hands-on guidance.",interpersonal,contrastive_synthetic
+The stereotype that international students are quiet clearly led me to stop making eye contact with them during my lectures.,interpersonal,contrastive_synthetic
+"I noticed that when a first-gen student brings up a personal struggle, my own discomfort with non-academic topics makes me immediately change the subject.",interpersonal,contrastive_synthetic
+My internalized beliefs about what academic rigor looks like caused me to use a deeply condescending tone when a student asked for clarification.,interpersonal,contrastive_synthetic
+I didn't realize my deficit mindset was actively shaping my advising appointments until I caught myself talking down to a student about their course load.,interpersonal,contrastive_synthetic
+It was painful to recognize that my own unconscious racial biases manifest in the way I impatiently cut off certain students mid-sentence.,interpersonal,contrastive_synthetic
+"By assuming that ELL students couldn't handle complex theory, I've been unconsciously watering down my vocabulary when speaking directly to them.",interpersonal,contrastive_synthetic
+The workshop made me see how my assumptions about gender and STEM play out when I automatically hand the microscope to the male lab partners.,interpersonal,contrastive_synthetic
+I have completely ignored the microaggressions happening in peer review groups because I was clinging to the belief that my classroom is a post-racial space.,interpersonal,contrastive_synthetic
+"When I look at my email replies, my embedded stereotypes are obvious in how brief and blunt I am with students of color asking for extensions.",interpersonal,contrastive_synthetic
+Holding onto the myth of meritocracy actually made me act incredibly dismissive when a student tried to explain their work conflict after class.,interpersonal,contrastive_synthetic
+My own biases about professionalism definitely influence why I correct the spoken grammar of my rural students in front of the whole class.,interpersonal,contrastive_synthetic
+I can finally see how my deficit thinking causes me to over-explain basic concepts only to the female students during my office hours.,interpersonal,contrastive_synthetic
+The way I responded to Jamal's insightful comment today was totally colored by my unconscious assumption that he hadn't done the reading.,interpersonal,contrastive_synthetic
+I let a harmful stereotype dictate my interaction when I expressed surprise that a student-athlete wanted to discuss grad school.,interpersonal,contrastive_synthetic
+My underlying assumptions about who belongs in honors classes actually changed my facial expressions when certain students came to ask for recommendation letters.,interpersonal,contrastive_synthetic
+"Reflecting on my own implicit bias, I recognized that I rarely validate the contributions of indigenous students during our large group critiques.",interpersonal,contrastive_synthetic
+I bought into the model minority myth so deeply that I completely brushed off a struggling Asian student who came to me for help.,interpersonal,contrastive_synthetic
+My deficit assumptions about urban schools led me to use an overly paternalistic tone when advising a freshman on her major.,interpersonal,contrastive_synthetic
+It turns out my unconscious biases dictate who I smile at and who I scowl at when students walk into the lecture hall late.,interpersonal,contrastive_synthetic
+"Because of my internalized classism, I often act visibly frustrated when students ask questions about affordable textbook alternatives after class.",interpersonal,contrastive_synthetic
+My belief in colorblindness caused me to completely invalidate a student's lived experience when they tried to share it during seminar.,interpersonal,contrastive_synthetic
+The way I structured the Q&A subtly allowed my implicit biases to let the white students completely dominate the conversation.,interpersonal,contrastive_synthetic
+I was projecting my own stereotypes about single mothers when I kept questioning a non-traditional student about her commitment to the group project.,interpersonal,contrastive_synthetic
+My deficit mindset around academic writing meant that my marginal notes on certain essays were unnecessarily sarcastic and demoralizing.,interpersonal,contrastive_synthetic
+"Looking at my interactions, my unconscious assumptions definitely make me less patient and more curt with neurodivergent students asking for accommodations.",interpersonal,contrastive_synthetic
+I allowed my biases regarding academic background to justify why I consistently ignore the raised hands of transfer students.,interpersonal,contrastive_synthetic
+Unpacking my own privilege helped me see that my tone becomes defensive whenever a student of color questions my grading rubric.,interpersonal,contrastive_synthetic
+My embedded stereotypes about who is good at math directly impacted why I only praised the boys during the whiteboard exercises.,interpersonal,contrastive_synthetic
+I realized my implicit bias was actively harming my students when I heard myself jokingly mock a student's accent during a supposedly casual chat.,interpersonal,contrastive_synthetic
+"By holding onto deficit narratives, I've been giving off completely unapproachable body language during my office hours.",interpersonal,contrastive_synthetic
+My assumptions about student apathy led me to aggressively confront a student who was actually just trying to read the board through a glare.,interpersonal,contrastive_synthetic
+The workshop revealed that my unconscious biases show up in the very subtle eye-rolls I give when certain students ask questions.,interpersonal,contrastive_synthetic
+I let my stereotypes about community college transfers seep into the doubtful way I questioned a student about their prerequisite knowledge.,interpersonal,contrastive_synthetic
+My own unchecked biases allowed me to sit back and watch while a female student was constantly talked over by her group members.,interpersonal,contrastive_synthetic
+"Because I harbor deficit views about first-generation college students, I unconsciously use a babying tone when I explain the syllabus to them.",interpersonal,contrastive_synthetic
+My implicit assumptions about leadership meant I only ever directed my questions to the white men when checking in on project groups.,interpersonal,contrastive_synthetic
+I failed to intervene in a clear microaggression between students because my own internalized biases made me think it was just a harmless joke.,interpersonal,contrastive_synthetic
+My belief that good students don't need help made me incredibly abrasive when a struggling student finally worked up the courage to visit my office.,interpersonal,contrastive_synthetic
+Examining my deficit thinking made me realize my email etiquette completely changes depending on whether I perceive the student as high-achieving.,interpersonal,contrastive_synthetic
+My unconscious bias definitely influenced why I felt the need to heavily police the tone of a Black female student during our debate.,interpersonal,contrastive_synthetic
+I acted out my stereotypes about male athletes by visibly ignoring a student when he tried to contribute to the poetry discussion.,interpersonal,contrastive_synthetic
+My internalized ideas about respectability politics caused me to scold a student in front of everyone for their casual greeting before class.,interpersonal,contrastive_synthetic
+Holding tight to my own academic privilege actually made me roll my eyes when a student asked what a lit review was during advising.,interpersonal,contrastive_synthetic
+My implicit bias really came out in the patronizing way I praised a Latina student simply for showing up to office hours.,interpersonal,contrastive_synthetic
+I let deficit thinking color my interactions when I automatically asked the only student of color to speak on behalf of their entire race during the sociology lecture.,interpersonal,contrastive_synthetic
+My unconscious assumptions about who is college material actively shifted my body language away from the non-traditional students in the front row.,interpersonal,contrastive_synthetic
+"When I corrected her essay's tone for being ""too informal,"" I was essentially policing her cultural expression of knowledge.",ideological,contrastive_synthetic
+"Looking back at how I dismissed his spoken contribution as ""unclear,"" I can see now that I was just enforcing standard English as the only valid metric of intellect.",ideological,contrastive_synthetic
+"My habit of heavily red-penning non-native speakers' drafts isn't about maintaining rigor, it's about holding up a rigid, exclusionary standard of academic literacy.",ideological,contrastive_synthetic
+"I often commend students for sounding ""academic,"" without questioning why I implicitly believe intellectual brilliance has to sound like a middle-class white person.",ideological,contrastive_synthetic
+"It makes me uncomfortable to admit that I interpreted her passionate debate style as ""aggressive"" simply because it violated my internalized norms of polite, detached discourse.",ideological,contrastive_synthetic
+"When I tell students to ""leave their personal experiences at the door"" during peer review, I am prioritizing a sterile, supposedly objective epistemology over their lived realities.",ideological,contrastive_synthetic
+"The way I reacted to the group's presentation style as ""too casual"" reveals my own deep-seated biases about what authority is supposed to look and sound like.",ideological,contrastive_synthetic
+"Telling him that his phrasing wasn't ""scholarly enough"" was just a coded way of saying it didn't align with dominant cultural expectations of how smart people speak.",ideological,contrastive_synthetic
+"I've been interpreting students' use of their community dialects in class as a lack of preparation rather than a valid, sophisticated linguistic choice.",ideological,contrastive_synthetic
+"My frustration with her ""rambling"" answers during office hours was actually my inability to value nonlinear, narrative ways of meaning-making.",ideological,contrastive_synthetic
+"Punishing students for not making eye contact during presentations ignores the fact that I am centering a very specific, western standard of confidence and respect.",ideological,contrastive_synthetic
+"I always thought I was just encouraging active learning by grading participation, but really I was rewarding extroversion and cultural comfort with taking up space.",ideological,contrastive_synthetic
+"When I asked the student to step out because they were ""disruptive,"" I failed to recognize how my definition of a productive classroom is built purely on compliance and docility.",ideological,contrastive_synthetic
+It dawned on me that my assumption that the quiet students in the back row don't care is entirely based on a deficit view of introversion and non-western learning styles.,ideological,contrastive_synthetic
+My immediate instinct to praise the student who dominates the discussion reinforces the harmful myth that verbal dominance is the same thing as intellectual leadership.,ideological,contrastive_synthetic
+"Assuming she was disengaged because she was looking at her phone ignores how my own definition of ""paying attention"" is narrowly focused on performative compliance.",ideological,contrastive_synthetic
+"When I got annoyed at the side-chatter during the lecture, I didn't stop to consider that communal, overlapping talk might be their cultural mode of processing complex information.",ideological,contrastive_synthetic
+"I have been equating a student's willingness to debate me publicly with their actual mastery of the material, a metric that heavily favors those raised in debate-centric cultures.",ideological,contrastive_synthetic
+"Evaluating their group dynamics based on who ""took charge"" completely dismisses collaborative models that don't rely on a single, dominant leader.",ideological,contrastive_synthetic
+The fact that I viewed his silence as defiance rather than processing time shows how much I've internalized the idea that learning must be immediately visible and vocal.,ideological,contrastive_synthetic
+"My strict policy on late work isn't actually preparing them for the ""real world,"" it's just penalizing students who don't have a safety net of time and generational resources.",ideological,contrastive_synthetic
+"I caught myself thinking that the student who failed my midterm just didn't try hard enough, completely buying into the dangerous myth of pure meritocracy.",ideological,contrastive_synthetic
+"When I told the working mother in my class that she just needed to manage her time better, I was blindly operating from a framework that assumes all students have equal access to uninterrupted hours.",ideological,contrastive_synthetic
+Congratulating the student who pulled an all-nighter to finish the lab report romanticizes a toxic grind culture that only benefits those without other caregiving or financial responsibilities.,ideological,contrastive_synthetic
+"My feedback that she ""isn't living up to her potential"" is deeply rooted in my own biased assumptions about what natural, effortless intelligence looks like.",ideological,contrastive_synthetic
+Treating students who miss office hours as if they are uninterested ignores the hidden curriculum that tells first-generation students they aren't supposed to bother professors for help.,ideological,contrastive_synthetic
+"I always thought my difficult exams were a badge of academic rigor, but really they just weed out the students who haven't been culturally trained in how to take multiple-choice tests.",ideological,contrastive_synthetic
+Viewing his frequent absences as a lack of dedication is a massive failure on my part to understand how systemic poverty and transportation issues manifest in the classroom.,ideological,contrastive_synthetic
+"When I asked the class why they performed so poorly on the quiz, I was implicitly blaming their work ethic instead of questioning my own pedagogical assumptions.",ideological,contrastive_synthetic
+"The way I brush off requests for extensions by saying ""it's about fairness to everyone else"" relies on a completely flawed, equality-over-equity mindset.",ideological,contrastive_synthetic
+"Judging the student's email for lacking a formal salutation wasn't about teaching them respect, it was about enforcing a specific, classed version of professional etiquette.",ideological,contrastive_synthetic
+It’s hard to admit that I felt less confident in his lab results simply because he showed up to the presentation in sweatpants and a hoodie.,ideological,contrastive_synthetic
+"When I suggested she change her research topic to something ""more objective,"" I was essentially telling her that her lived experience as a marginalized woman wasn't valid scholarship.",ideological,contrastive_synthetic
+"My surprise that the Black student in the front row aced the complex coding assignment reveals some incredibly ugly, unexamined deficit narratives I've been carrying around.",ideological,contrastive_synthetic
+"Telling the student that their artwork was ""too political"" was my way of enforcing the false idea that dominant, mainstream narratives are somehow neutral and unbiased.",ideological,contrastive_synthetic
+"I often group the ""struggling"" students together without realizing that my definition of struggling is completely tied to their proximity to whiteness and wealth.",ideological,contrastive_synthetic
+"When I told her to ""smile more"" during the mock interview, I was policing her affect based on patriarchal expectations of how women should exist in professional spaces.",ideological,contrastive_synthetic
+"My advice to him about ""fitting in"" at the corporate networking event was really just asking him to assimilate and hide his authentic cultural self.",ideological,contrastive_synthetic
+Reacting defensively when the student questioned the reading list showed my deeply ingrained belief that the western literary canon is inherently superior and untouchable.,ideological,contrastive_synthetic
+"I framed my harsh critique as ""tough love,"" but really it was just me replicating the same gatekeeping, survival-of-the-fittest behaviors I experienced in graduate school.",ideological,contrastive_synthetic
+"Calling on the same three outspoken students isn't just a bad habit, it's a reflection of my underlying belief that learning is an aggressive, performative act.",ideological,contrastive_synthetic
+"When I told the student they were being ""too emotional"" about the case study, I was weaponizing the concept of rationality to dismiss their valid structural critique.",ideological,contrastive_synthetic
+My reluctance to let students grade each other comes from a deeply entrenched hierarchical mindset where I believe I am the only valid arbiter of knowledge in the room.,ideological,contrastive_synthetic
+"When I called on the only Latinx student to explain the reading on immigration, I was operating under the essentialist belief that minoritized individuals naturally embody and speak for entire sociopolitical phenomena.",ideological,contrastive_synthetic
+"The way I dismissed her request for a content warning as ""coddling"" relies on a hardened, ableist assumption about what constitutes academic resilience.",ideological,contrastive_synthetic
+"My syllabus language about ""cheating"" and ""plagiarism"" is aggressively rooted in a carceral, individualistic view of property rather than a communal, collaborative view of learning.",ideological,contrastive_synthetic
+"When I sighed heavily at his basic question, I was signaling that this space only belongs to those who already possess foundational privilege and prior exposure.",ideological,contrastive_synthetic
+"Giving extra credit for attending unpaid, off-campus events implicitly rewards the students who already have the most disposable income and free time to spare.",ideological,contrastive_synthetic
+"I told the class that ""we are all equal in this room,"" which completely erased the very real systemic disparities they navigated just to walk through the door.",ideological,contrastive_synthetic
+Correcting her pronunciation of a theoretical term in front of everyone was less about accuracy and more about asserting dominance and preserving academic purity.,ideological,contrastive_synthetic
+Our departmental syllabus enforces a standard of professionalism that merely validates dominant cultural behaviors under the guise of objective merit,institutionalized,extra_institutionalized
+We often label students as lacking motivation when the real issue is our rigid prerequisite structure shutting them out of early success,institutionalized,extra_institutionalized
+The assumption that STEM requires a weed-out culture is permanently baked into our standardized gateway exams,institutionalized,extra_institutionalized
+I am starting to see how our strict attendance policy relies on deficit thinking about student responsibility rather than acknowledging systemic transportation barriers,institutionalized,extra_institutionalized
+The curriculum committees continue to prioritize a very Eurocentric dominant narrative simply because it fits neatly into the existing transfer credit agreements,institutionalized,extra_institutionalized
+Requiring standardized test scores for program admission perpetuates the myth of a pure meritocracy while actively filtering out structurally marginalized groups,institutionalized,extra_institutionalized
+We expect immediate academic assimilation but our onboarding modules offer zero guidance on navigating the hidden curriculum,institutionalized,extra_institutionalized
+The grading penalties for late work are rooted in unexamined biases about time management rather than actual course learning objectives,institutionalized,extra_institutionalized
+Our financial aid disbursement timeline forces students to delay textbook purchases while we simultaneously penalize them for coming to class unprepared,institutionalized,extra_institutionalized
+The college orientation materials center an idealized traditional student experience which signals a lack of belonging to adult learners before they even register,institutionalized,extra_institutionalized
+Assessing participation based solely on vocal contributions heavily privileges dominant cultural communication styles within our grading frameworks,institutionalized,extra_institutionalized
+It bothers me that the diversity requirement is isolated to a single elective rather than woven into the core graduation standards,institutionalized,extra_institutionalized
+The assumption that everyone has equal access to high-speed internet is institutionalized into the way we mandate online homework platforms,institutionalized,extra_institutionalized
+We claim to value diverse perspectives yet the tenure review guidelines only reward publication in highly traditional legacy journals,institutionalized,extra_institutionalized
+Our academic probation policies often reinforce harmful stereotypes about academic capability instead of providing structural scaffolding,institutionalized,extra_institutionalized
+The mandatory zero-tolerance plagiarism policy assumes malicious intent rather than recognizing differences in prior educational socialization,institutionalized,extra_institutionalized
+Framing tutoring services as remedial intervention centers deficit thinking right in the physical layout of our student success center,institutionalized,extra_institutionalized
+The expectation that students must pay out of pocket for background checks limits entry into the nursing program to those with existing financial privilege,institutionalized,extra_institutionalized
+Relying on unpaid internships for course credit heavily favors students who already possess intergenerational wealth,institutionalized,extra_institutionalized
+Our syllabus templates enforce a rigid policing of student behavior that alienates neurodivergent learners from day one,institutionalized,extra_institutionalized
+We build our class schedules around the assumption of a traditional daytime workday which implicitly excludes parenting students,institutionalized,extra_institutionalized
+The departmental requirement to buy brand new access codes actively marginalizes first-generation students while we claim to promote equity,institutionalized,extra_institutionalized
+Treating extra credit as a reward for attending optional campus events assumes all students have equal free time outside of class,institutionalized,extra_institutionalized
+Our core curriculum implicitly teaches students that non-Western knowledge systems are less rigorous by relegating them to special topics courses,institutionalized,extra_institutionalized
+We uphold the illusion of academic rigor by maintaining grading curves that mathematically require a certain percentage of students to fail,institutionalized,extra_institutionalized
+My conversations with struggling students are always constrained by the strict financial aid warning triggers programmed into the advising system,institutionalized,extra_institutionalized
+We end up having tense exchanges with the tutoring staff because the college funding model pits our departments against each other for scarce resources,institutionalized,extra_institutionalized
+Whenever an advisor tells a student they cannot change majors it is usually because the strict degree mapping software simply locks them out,institutionalized,extra_institutionalized
+I feel terrible telling my adjunct peers they cannot use the copy machine since the department budget restricts access to full-time faculty only,institutionalized,extra_institutionalized
+The interactions I have with disabled students are often frustrating for both of us because the accommodations office takes three weeks to process basic requests,institutionalized,extra_institutionalized
+Faculty mentorship meetings frequently turn into complaining sessions about how the heavy teaching load prevents any meaningful course redesign,institutionalized,extra_institutionalized
+I notice students getting angry at the cashiers but the real culprit is the automated drop-for-nonpayment policy forcing those interactions,institutionalized,extra_institutionalized
+My attempts to collaborate with the English department always fall flat because our separate division structures actively discourage cross-disciplinary teaching,institutionalized,extra_institutionalized
+Advisors often have to give students bad news about graduation simply because the transfer credit evaluation system is completely antiquated,institutionalized,extra_institutionalized
+When students argue with me about minor point deductions it usually stems from the fierce competition created by our programmatic GPA requirements,institutionalized,extra_institutionalized
+The awkward interactions during office hours often happen because the physical layout of the faculty suite is incredibly intimidating to first-year students,institutionalized,extra_institutionalized
+I find myself giving generic advice to my mentees because the automated advising portal offers no space to record holistic student goals,institutionalized,extra_institutionalized
+Students often seem disengaged during group work but the rigid lecture hall seating actually prevents any real collaborative interaction,institutionalized,extra_institutionalized
+Faculty arguments during committee meetings are usually just a symptom of the flawed resource allocation model handed down by the administration,institutionalized,extra_institutionalized
+My emails to the registrar staff always sound demanding because the archaic enrollment software requires constant manual overrides,institutionalized,extra_institutionalized
+Whenever a student tearfully asks for an extension I am forced to say no because the master syllabus locks all assignment dates across every section,institutionalized,extra_institutionalized
+Interactions between students and campus security are inherently strained by the new mandatory ID check policy at every building entrance,institutionalized,extra_institutionalized
+I want to spend more time chatting with students after class but the ten-minute passing period scheduling forces me to rush them out the door,institutionalized,extra_institutionalized
+Students often complain to me about their academic advisors without realizing those staff members carry impossible caseloads of five hundred students each,institutionalized,extra_institutionalized
+My attempts to build rapport with non-traditional students are constantly undermined by the mandatory evening lab times that conflict with childcare,institutionalized,extra_institutionalized
+Instructors end up policing student behavior in the testing center only because the proctoring software flags every minor eye movement,institutionalized,extra_institutionalized
+When a student lashes out about a low grade they are usually reacting to the pressure of losing their institutional merit scholarship,institutionalized,extra_institutionalized
+Staff members in the financial aid office often seem dismissive but they are just strictly enforcing federal compliance guidelines that lack any flexibility,institutionalized,extra_institutionalized
+Faculty peer observations feel overly judgmental because the mandatory evaluation rubric leaves absolutely no room for discussing pedagogical innovation,institutionalized,extra_institutionalized
+Students avoid asking me for letters of recommendation because the standardized application portal requires them to waive their privacy rights upfront,institutionalized,extra_institutionalized
+I noticed people still act like some majors are naturally for certain kinds of students,ideological,contrastive_synthetic_v2
+"There is this idea that if you struggle, you probably just are not cut out for it",ideological,contrastive_synthetic_v2
+A lot of people talk about professionalism like it means sounding less like yourself,ideological,contrastive_synthetic_v2
+It feels like confidence gets mistaken for intelligence way too often,ideological,contrastive_synthetic_v2
+"People assume quiet students do not care, even when they are just processing",ideological,contrastive_synthetic_v2
+Sometimes success gets framed like it belongs to people who already know the hidden rules,ideological,contrastive_synthetic_v2
+There is a belief that asking for help means you are behind instead of learning,ideological,contrastive_synthetic_v2
+I hear jokes that make it seem normal for some groups to be bad at math,ideological,contrastive_synthetic_v2
+"Everyone says college is equal opportunity, but that idea ignores a lot of real life",ideological,contrastive_synthetic_v2
+The message is kind of that you should be grateful just to be included,ideological,contrastive_synthetic_v2
+I think people confuse being assertive with being rude depending on who is speaking,ideological,contrastive_synthetic_v2
+There is still this assumption that first generation students need extra help because they lack drive,ideological,contrastive_synthetic_v2
+Some students are seen as leaders right away while others have to prove they belong first,ideological,contrastive_synthetic_v2
+It seems normal here to treat English sounding confidence as the same thing as being smart,ideological,contrastive_synthetic_v2
+The culture around STEM makes it feel like emotions do not belong in serious work,ideological,contrastive_synthetic_v2
+A lot of advice assumes every student has parents who understand college already,ideological,contrastive_synthetic_v2
+People act like being busy all the time means you are more serious,ideological,contrastive_synthetic_v2
+There is this weird belief that good students never need extensions,ideological,contrastive_synthetic_v2
+I noticed how people call some accents hard to understand but never question their own listening,ideological,contrastive_synthetic_v2
+The idea of a normal college student feels really narrow sometimes,ideological,contrastive_synthetic_v2
+People keep saying fit in like the problem is difference itself,ideological,contrastive_synthetic_v2
+It feels like certain careers are still imagined as male even when nobody says it directly,ideological,contrastive_synthetic_v2
+The way people talk about merit makes it sound like support systems do not matter,ideological,contrastive_synthetic_v2
+"I think some classmates believe poverty is just bad planning, which is frustrating",ideological,contrastive_synthetic_v2
+There is an assumption that students who commute are less involved or less serious,ideological,contrastive_synthetic_v2
+Sometimes diversity is treated like a nice extra instead of part of learning,ideological,contrastive_synthetic_v2
+The pressure to be chill about everything makes real problems seem like complaining,ideological,contrastive_synthetic_v2
+I notice people respect struggle more when it sounds inspiring and not messy,ideological,contrastive_synthetic_v2
+There is this belief that leadership has to look loud and polished,ideological,contrastive_synthetic_v2
+People assume group work is fair because everyone is technically assigned the same task,ideological,contrastive_synthetic_v2
+The campus talks a lot about independence like needing support is a weakness,ideological,contrastive_synthetic_v2
+It feels like students are expected to already know what successful people act like,ideological,contrastive_synthetic_v2
+Some comments make it seem like certain neighborhoods produce less serious students,ideological,contrastive_synthetic_v2
+There is a quiet norm that you should hide stress and just keep performing,ideological,contrastive_synthetic_v2
+I think people call something objective when it is really based on old assumptions,ideological,contrastive_synthetic_v2
+The financial aid deadlines were confusing and I missed one because the email was buried,institutionalized,contrastive_synthetic_v2
+"My department only offers the required class during work hours, so it is not really a choice",institutionalized,contrastive_synthetic_v2
+The attendance policy made it hard when my bus was late even though I emailed proof,institutionalized,contrastive_synthetic_v2
+I had to fill out three different forms just to get one accommodation approved,institutionalized,contrastive_synthetic_v2
+The internship listing said entry level but required experience I could only get through unpaid work,institutionalized,contrastive_synthetic_v2
+"My advisor changed twice, and nobody explained which requirements still counted",institutionalized,contrastive_synthetic_v2
+The lab closes before I can get there after my shift,institutionalized,contrastive_synthetic_v2
+"The school website says resources are available, but the office hours overlap with most classes",institutionalized,contrastive_synthetic_v2
+I could not register because the system put a hold on my account for a small fee,institutionalized,contrastive_synthetic_v2
+"The policy treats every absence the same, even when students have caretaking responsibilities",institutionalized,contrastive_synthetic_v2
+"Transfer students get told to catch up, but the course sequence is not built for us",institutionalized,contrastive_synthetic_v2
+The scholarship rules do not count part time students even though many of us have to work,institutionalized,contrastive_synthetic_v2
+The application portal timed out and there was no way to save my progress,institutionalized,contrastive_synthetic_v2
+"My program requires networking events, but they are always off campus and late at night",institutionalized,contrastive_synthetic_v2
+The grading rubric rewards participation in a way that does not fit online students well,institutionalized,contrastive_synthetic_v2
+"There are tutoring services, but the waitlist is so long it feels mostly symbolic",institutionalized,contrastive_synthetic_v2
+The campus shuttle stops running before evening classes end,institutionalized,contrastive_synthetic_v2
+"I lost access to the software after the trial ended, and the class still expected us to use it",institutionalized,contrastive_synthetic_v2
+"The department says prerequisites are flexible, but the registration system blocks you automatically",institutionalized,contrastive_synthetic_v2
+"My workplace schedule changed every week, and the school had no option for flexible deadlines",institutionalized,contrastive_synthetic_v2
+The required textbook was online only and the access code expired before finals,institutionalized,contrastive_synthetic_v2
+"The campus clinic had appointments, but none were available until after the withdrawal date",institutionalized,contrastive_synthetic_v2
+The rule about late work did not leave room for family emergencies,institutionalized,contrastive_synthetic_v2
+The honors program required extra meetings at times commuter students could not attend,institutionalized,contrastive_synthetic_v2
+I kept getting sent to different offices because no one department owned the problem,institutionalized,contrastive_synthetic_v2
+"The school says to report bias, but the form asks for details that many students would not have",institutionalized,contrastive_synthetic_v2
+The online exam system flagged my room noise even though I live with other people,institutionalized,contrastive_synthetic_v2
+The class size was so big that getting feedback before the next assignment was basically impossible,institutionalized,contrastive_synthetic_v2
+"The program requires unpaid field hours, which blocks students who need paid work",institutionalized,contrastive_synthetic_v2
+"My name change showed in one system but not the others, so it kept causing problems",institutionalized,contrastive_synthetic_v2
+"The advising checklist was different from the catalog, and students had to figure out which one mattered",institutionalized,contrastive_synthetic_v2
+The placement test decided my math level without considering what I learned outside school,institutionalized,contrastive_synthetic_v2
+The meal plan rules did not help students who were only on campus two days a week,institutionalized,contrastive_synthetic_v2
+Campus housing priority went to groups that did not include students like me,institutionalized,contrastive_synthetic_v2
+"The complaint process took months, so by the time anything happened the semester was over",institutionalized,contrastive_synthetic_v2
+The school required a laptop but did not provide enough loaners,institutionalized,contrastive_synthetic_v2
+"The disability office approved my note, but professors could still decide how much to follow it",institutionalized,contrastive_synthetic_v2
+The transfer credit policy made me retake a class I had basically already passed,institutionalized,contrastive_synthetic_v2
+"The campus job application asked for availability during classes, which made no sense",institutionalized,contrastive_synthetic_v2
+The parking permit cost more than I expected and there was no payment plan,institutionalized,contrastive_synthetic_v2
+"The program advertises mentorship, but there is no actual structure for matching students",institutionalized,contrastive_synthetic_v2
+The final exam schedule put three of my exams on the same day and the rule did not count it as a conflict,institutionalized,contrastive_synthetic_v2
+"Getting into research depended on knowing which professor to email, not any clear process",institutionalized,contrastive_synthetic_v2
+"The school requires service hours, but approved sites are mostly far from public transit",institutionalized,contrastive_synthetic_v2
+The withdrawal policy punished me for waiting to see if I could recover my grade,institutionalized,contrastive_synthetic_v2
+My lab partner kept checking my work like I could not handle the equipment,interpersonal,contrastive_synthetic_v2
+"A classmate laughed when I mispronounced a term, and the table got quiet after that",interpersonal,contrastive_synthetic_v2
+My professor called on me only when the topic was about my background,interpersonal,contrastive_synthetic_v2
+People in my group ignored my idea until another student repeated it,interpersonal,contrastive_synthetic_v2
+"Someone told me I was surprisingly good at coding, which did not feel like a compliment",interpersonal,contrastive_synthetic_v2
+My roommate kept making jokes about my food until I stopped eating it in the room,interpersonal,contrastive_synthetic_v2
+"When I asked a question, the tutor spoke to me slowly like I was a child",interpersonal,contrastive_synthetic_v2
+A student in class said people like me only got in because of diversity,interpersonal,contrastive_synthetic_v2
+My manager at the campus job gave better shifts to his friends,interpersonal,contrastive_synthetic_v2
+The group chat left me out of decisions and then acted like I was not contributing,interpersonal,contrastive_synthetic_v2
+My instructor corrected my tone in front of everyone instead of talking to me after class,interpersonal,contrastive_synthetic_v2
+A classmate kept touching my hair even after I moved away,interpersonal,contrastive_synthetic_v2
+"During peer review, someone wrote that my writing sounded angry without explaining anything",interpersonal,contrastive_synthetic_v2
+My advisor brushed off my concern and said I was probably overthinking it,interpersonal,contrastive_synthetic_v2
+The team leader assigned me note taking every time even when I asked to present,interpersonal,contrastive_synthetic_v2
+People kept asking where I was really from during the first week,interpersonal,contrastive_synthetic_v2
+My professor joked about my name being hard before even trying to say it,interpersonal,contrastive_synthetic_v2
+A student told me I did not look like someone in this major,interpersonal,contrastive_synthetic_v2
+"When I shared my answer, two classmates rolled their eyes and whispered",interpersonal,contrastive_synthetic_v2
+My project group talked over me so much that I stopped trying in that meeting,interpersonal,contrastive_synthetic_v2
+The TA replied warmly to others but gave me one word answers every time,interpersonal,contrastive_synthetic_v2
+My classmates made plans to study and somehow never invited me,interpersonal,contrastive_synthetic_v2
+A professor asked if I was sure I wanted the harder track,interpersonal,contrastive_synthetic_v2
+My coworker kept calling me by the wrong name even after I corrected him,interpersonal,contrastive_synthetic_v2
+"Someone said my scholarship must be nice, like I had not earned it",interpersonal,contrastive_synthetic_v2
+"In discussion, a student interrupted me and said my point was too emotional",interpersonal,contrastive_synthetic_v2
+"My classmates stared at me whenever immigration came up, which felt weird",interpersonal,contrastive_synthetic_v2
+The club officers were polite but kept giving the real tasks to people they already knew,interpersonal,contrastive_synthetic_v2
+My professor compared my answer to another student's and made it sound embarrassing,interpersonal,contrastive_synthetic_v2
+A classmate told me to calm down when I was just explaining my point,interpersonal,contrastive_synthetic_v2
+I started thinking maybe I only got accepted because they needed numbers,internalized,contrastive_synthetic_v2
+"I catch myself apologizing before I ask questions, even when I know they are fair",internalized,contrastive_synthetic_v2
+Sometimes I hide parts of my background because I do not want it to become the whole conversation,internalized,contrastive_synthetic_v2
+"I felt embarrassed for needing help, like it proved something bad about me",internalized,contrastive_synthetic_v2
+I keep wondering if my accent makes me sound less smart,internalized,contrastive_synthetic_v2
+"Even when I do well, I feel like people will figure out I am not really supposed to be here",internalized,contrastive_synthetic_v2
+I stopped raising my hand because I was scared my answer would confirm what people already think,internalized,contrastive_synthetic_v2
+"I felt weird being proud of myself, like I was taking up too much space",internalized,contrastive_synthetic_v2
+I started dressing differently on campus so I would not stand out so much,internalized,contrastive_synthetic_v2
+I blamed myself for not understanding things that nobody actually explained,internalized,contrastive_synthetic_v2
+"I kept telling myself not to be sensitive, even though it bothered me for days",internalized,contrastive_synthetic_v2
+I feel guilty asking for extensions because I think I should just handle everything,internalized,contrastive_synthetic_v2
+I sometimes downplay my goals because I am afraid they sound too big for someone like me,internalized,contrastive_synthetic_v2
+I started believing I was bad at science before I even gave myself a real chance,internalized,contrastive_synthetic_v2
+I avoid speaking in class because I do not trust how I sound,internalized,contrastive_synthetic_v2
+I felt like I had to prove I was not a burden before I could ask for support,internalized,contrastive_synthetic_v2
+I get nervous showing my work because I expect it to be judged harder,internalized,contrastive_synthetic_v2
+I keep comparing myself to students who seem to already know how college works,internalized,contrastive_synthetic_v2
+I felt ashamed that my family could not help me with school stuff,internalized,contrastive_synthetic_v2
+Sometimes I pretend I understand because admitting confusion feels unsafe,internalized,contrastive_synthetic_v2
+I started using a shorter version of my name so people would not struggle with it,internalized,contrastive_synthetic_v2
+I feel like I have to be extra perfect or I will lose my place,internalized,contrastive_synthetic_v2
+I kept my financial stress private because I did not want people to see me as needy,internalized,contrastive_synthetic_v2
+I feel uncomfortable correcting people because I worry I am making it awkward,internalized,contrastive_synthetic_v2
+I started thinking my problems were just personal weakness,internalized,contrastive_synthetic_v2
+"I question my own reaction a lot, like maybe I am making things bigger than they are",internalized,contrastive_synthetic_v2
+I feel pressure to sound confident even when I am completely lost,internalized,contrastive_synthetic_v2
+I hide how tired I am because I do not want to look like I cannot keep up,internalized,contrastive_synthetic_v2
+"I felt smaller in class after a while, even when nobody was directly saying anything",internalized,contrastive_synthetic_v2
+I sometimes feel embarrassed by how much I do not know about campus culture,internalized,contrastive_synthetic_v2
+I started avoiding office hours because I felt like my questions were stupid,internalized,contrastive_synthetic_v2
+I feel like I have to translate myself before people can take me seriously,internalized,contrastive_synthetic_v2
+I stopped mentioning my community because I was scared it would change how people saw me,internalized,contrastive_synthetic_v2
+I took one bad grade as proof that I was not meant for the program,internalized,contrastive_synthetic_v2
+"I feel tense when I speak up, like I need to represent more than just myself",internalized,contrastive_synthetic_v2
+I started believing that needing accommodations meant I was less capable,internalized,contrastive_synthetic_v2
+I sometimes make myself laugh along so I do not seem difficult,internalized,contrastive_synthetic_v2
+I keep editing my emails over and over because I am scared of sounding unprofessional,internalized,contrastive_synthetic_v2
+"I felt embarrassed explaining my home responsibilities, so I just said I was busy",internalized,contrastive_synthetic_v2
+"I started thinking I should be grateful for any seat, even when I felt invisible",internalized,contrastive_synthetic_v2
