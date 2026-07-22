@@ -7,3 +7,6 @@ scikit-learn
 numpy
 joblib
 groq
+google-cloud-firestore
+google-cloud-storage
+pandas
