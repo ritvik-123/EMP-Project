@@ -7,4 +7,3 @@ scikit-learn
 numpy
 joblib
 groq
-gradio
