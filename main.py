@@ -26,9 +26,9 @@ class PredictionRequest(BaseModel):
 @app.get("/", response_class=HTMLResponse)
 def home(request: Request):
     return templates.TemplateResponse(
-        "index.html",
-        {
-            "request": request,
+        request=request,
+        name="index.html",
+        context={
             "result": None,
             "sentence": "",
             "use_llm_backup": True
@@ -50,9 +50,9 @@ def classify_from_form(
     )
 
     return templates.TemplateResponse(
-        "index.html",
-        {
-            "request": request,
+        request=request,
+        name="index.html",
+        context={
             "result": result,
             "sentence": sentence,
             "use_llm_backup": use_llm_backup
