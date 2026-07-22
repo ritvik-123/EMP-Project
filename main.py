@@ -1,3 +1,5 @@
+from functools import lru_cache
+
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
@@ -10,7 +12,10 @@ app = FastAPI(title="EMP Oppression Classifier")
 
 templates = Jinja2Templates(directory="templates")
 
-classifier = EMPClassifier()
+
+@lru_cache(maxsize=1)
+def get_classifier():
+    return EMPClassifier()
 
 
 class PredictionRequest(BaseModel):
@@ -25,7 +30,8 @@ def home(request: Request):
         {
             "request": request,
             "result": None,
-            "sentence": ""
+            "sentence": "",
+            "use_llm_backup": True
         }
     )
 
@@ -36,6 +42,8 @@ def classify_from_form(
     sentence: str = Form(...),
     use_llm_backup: bool = Form(False)
 ):
+    classifier = get_classifier()
+
     result = classifier.classify(
         sentence=sentence,
         use_llm_backup=use_llm_backup
@@ -54,10 +62,13 @@ def classify_from_form(
 
 @app.post("/predict")
 def predict(payload: PredictionRequest):
+    classifier = get_classifier()
+
     result = classifier.classify(
         sentence=payload.sentence,
         use_llm_backup=payload.use_llm_backup
     )
+
     return result
 
 
