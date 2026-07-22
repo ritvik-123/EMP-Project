@@ -1,183 +1,412 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>EMP Oppression Classifier</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            background: #f7f7f7;
-            color: #222;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EMP Oppression Classifier</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F7F5F0;
+    --ink: #2B2A28;
+    --ink-soft: #6B6862;
+    --rule: #DEDACF;
+    --ideological: #5B7C99;
+    --institutionalized: #8C6D46;
+    --interpersonal: #A6623D;
+    --internalized: #6B4C6B;
+  }
 
-        .container {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-        }
+  * { box-sizing: border-box; }
 
-        h1 {
-            margin-top: 0;
-        }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 48px 20px 80px;
+  }
 
-        textarea {
-            width: 100%;
-            min-height: 120px;
-            padding: 12px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 8px;
-            resize: vertical;
-        }
+  main { width: 100%; max-width: 640px; }
 
-        button {
-            margin-top: 15px;
-            padding: 12px 20px;
-            font-size: 16px;
-            border: none;
-            border-radius: 8px;
-            background: #2563eb;
-            color: white;
-            cursor: pointer;
-        }
+  header { margin-bottom: 40px; }
 
-        button:hover {
-            background: #1d4ed8;
-        }
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+  }
 
-        .checkbox-row {
-            margin-top: 12px;
-        }
+  h1 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.2;
+    margin: 0 0 12px;
+  }
 
-        .result {
-            margin-top: 30px;
-            padding: 20px;
-            border-radius: 10px;
-            background: #eef2ff;
-        }
+  .subhead {
+    color: var(--ink-soft);
+    font-size: 15px;
+    line-height: 1.55;
+    max-width: 52ch;
+  }
 
-        .label {
-            font-size: 22px;
-            font-weight: bold;
-            color: #1e40af;
-        }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    margin-top: 20px;
+    font-size: 13px;
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
+  .swatch { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
 
-        .small {
-            color: #555;
-            font-size: 14px;
-        }
+  textarea {
+    width: 100%;
+    min-height: 110px;
+    padding: 16px;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ink);
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    resize: vertical;
+  }
+  textarea:focus-visible { outline: 2px solid var(--ideological); outline-offset: 1px; }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 15px;
-        }
+  .controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 14px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
 
-        th, td {
-            text-align: left;
-            padding: 10px;
-            border-bottom: 1px solid #ddd;
-        }
+  label.check {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
 
-        pre {
-            background: #111827;
-            color: #f9fafb;
-            padding: 15px;
-            border-radius: 8px;
-            overflow-x: auto;
-        }
-    </style>
+  button.primary {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 12px 22px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: opacity 0.15s ease;
+  }
+  button.primary:hover { opacity: 0.85; }
+  button.primary:disabled { opacity: 0.5; cursor: wait; }
+
+  /* Result area */
+  #result-block { margin-top: 44px; display: none; }
+
+  .rings-row {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+
+  svg#rings { flex-shrink: 0; }
+
+  .ring-bg { fill: none; stroke: var(--rule); stroke-width: 14; }
+  .ring-fill { fill: none; stroke-width: 14; stroke-linecap: round; transition: stroke-dashoffset 0.8s cubic-bezier(0.4,0,0.2,1), opacity 0.4s ease; }
+
+  .verdict { flex: 1; min-width: 200px; }
+
+  .verdict-label {
+    font-family: 'Source Serif 4', serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0 0 4px;
+  }
+
+  .verdict-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+
+  .probs {
+    margin-top: 28px;
+    border-top: 1px solid var(--rule);
+    padding-top: 20px;
+  }
+
+  .prob-row {
+    display: grid;
+    grid-template-columns: 130px 1fr 52px;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    margin-bottom: 9px;
+  }
+  .prob-row .name { text-transform: capitalize; color: var(--ink-soft); }
+  .prob-track { height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; }
+  .prob-bar { height: 100%; border-radius: 3px; }
+  .prob-val { font-family: 'JetBrains Mono', monospace; text-align: right; color: var(--ink-soft); }
+
+  /* Feedback */
+  .feedback {
+    margin-top: 28px;
+    border-top: 1px solid var(--rule);
+    padding-top: 20px;
+  }
+  .feedback-prompt { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
+  .feedback-actions { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+
+  button.fb {
+    font-family: 'Inter', sans-serif;
+    font-size: 13.5px;
+    font-weight: 500;
+    background: #fff;
+    border: 1px solid var(--rule);
+    color: var(--ink);
+    padding: 8px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button.fb:hover { border-color: var(--ink-soft); }
+  button.fb.selected { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+  select.correction {
+    font-family: 'Inter', sans-serif;
+    font-size: 13.5px;
+    padding: 7px 10px;
+    border-radius: 4px;
+    border: 1px solid var(--rule);
+    background: #fff;
+  }
+
+  .fb-confirmed { font-size: 13.5px; color: var(--ink-soft); font-style: italic; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ring-fill { transition: none; }
+  }
+</style>
 </head>
 <body>
-    <div class="container">
-        <h1>EMP Oppression Classifier</h1>
-
-        <p>
-            Enter a sentence to classify it as
-            <strong>ideological</strong>,
-            <strong>institutionalized</strong>,
-            <strong>interpersonal</strong>, or
-            <strong>internalized</strong>.
-        </p>
-
-        <form method="post">
-            <textarea name="sentence" placeholder="Enter a sentence here..." required>{{ sentence }}</textarea>
-
-            <div class="checkbox-row">
-                <label>
-                    <input type="checkbox" name="use_llm_backup" {% if use_llm_backup %}checked{% endif %}>
-                    Use LLM backup for low-confidence predictions
-                </label>
-            </div>
-
-            <button type="submit">Classify Sentence</button>
-        </form>
-
-        {% if result %}
-        <div class="result">
-            <h2>Prediction Result</h2>
-
-            <p class="label">{{ result.final_label }}</p>
-
-            <p>
-                <strong>Source:</strong> {{ result.source }}
-            </p>
-
-            <p>
-                <strong>LLM Used:</strong> {{ result.llm_used }}
-            </p>
-
-            {% if result.llm_reason %}
-            <p>
-                <strong>LLM Reason:</strong> {{ result.llm_reason }}
-            </p>
-            {% endif %}
-
-            <h3>Logistic Regression Details</h3>
-
-            <table>
-                <tr>
-                    <th>Metric</th>
-                    <th>Value</th>
-                </tr>
-                <tr>
-                    <td>Top 1 Label</td>
-                    <td>{{ result.logreg.top1_label }}</td>
-                </tr>
-                <tr>
-                    <td>Top 1 Probability</td>
-                    <td>{{ "%.4f"|format(result.logreg.top1_prob) }}</td>
-                </tr>
-                <tr>
-                    <td>Top 2 Label</td>
-                    <td>{{ result.logreg.top2_label }}</td>
-                </tr>
-                <tr>
-                    <td>Top 2 Probability</td>
-                    <td>{{ "%.4f"|format(result.logreg.top2_prob) }}</td>
-                </tr>
-            </table>
-
-            <h3>All Label Probabilities</h3>
-
-            <table>
-                <tr>
-                    <th>Label</th>
-                    <th>Probability</th>
-                </tr>
-                {% for label, prob in result.logreg.all_probs.items() %}
-                <tr>
-                    <td>{{ label }}</td>
-                    <td>{{ "%.4f"|format(prob) }}</td>
-                </tr>
-                {% endfor %}
-            </table>
-        </div>
-        {% endif %}
+<main>
+  <header>
+    <div class="eyebrow">EMP · Sentence-Level Classifier</div>
+    <h1>Where does this sentence sit?</h1>
+    <p class="subhead">
+      Enter a sentence and the model places it on a scale from broad societal belief
+      down to internalized self-perception.
+    </p>
+    <div class="legend">
+      <span><i class="swatch" style="background:var(--ideological)"></i>Ideological — beliefs, norms</span>
+      <span><i class="swatch" style="background:var(--institutionalized)"></i>Institutionalized — policy, systems</span>
+      <span><i class="swatch" style="background:var(--interpersonal)"></i>Interpersonal — direct treatment</span>
+      <span><i class="swatch" style="background:var(--internalized)"></i>Internalized — self-perception</span>
     </div>
+  </header>
+
+  <textarea id="sentence" placeholder="e.g. I started believing I was less capable because of how people treated me."></textarea>
+
+  <div class="controls">
+    <label class="check">
+      <input type="checkbox" id="use-llm" checked>
+      Use LLM backup for low-confidence predictions
+    </label>
+    <button class="primary" id="submit-btn">Classify</button>
+  </div>
+
+  <div id="result-block">
+    <div class="rings-row">
+      <svg id="rings" width="140" height="140" viewBox="0 0 140 140">
+        <circle class="ring-bg" cx="70" cy="70" r="60"/>
+        <circle class="ring-bg" cx="70" cy="70" r="45"/>
+        <circle class="ring-bg" cx="70" cy="70" r="30"/>
+        <circle class="ring-bg" cx="70" cy="70" r="15"/>
+        <circle class="ring-fill" id="ring-ideological"       cx="70" cy="70" r="60" stroke="var(--ideological)"/>
+        <circle class="ring-fill" id="ring-institutionalized" cx="70" cy="70" r="45" stroke="var(--institutionalized)"/>
+        <circle class="ring-fill" id="ring-interpersonal"     cx="70" cy="70" r="30" stroke="var(--interpersonal)"/>
+        <circle class="ring-fill" id="ring-internalized"      cx="70" cy="70" r="15" stroke="var(--internalized)"/>
+      </svg>
+      <div class="verdict">
+        <p class="verdict-label" id="verdict-label">—</p>
+        <p class="verdict-meta" id="verdict-meta">—</p>
+      </div>
+    </div>
+
+    <div class="probs" id="probs"></div>
+
+    <div class="feedback" id="feedback-area">
+      <p class="feedback-prompt">Was this the right label?</p>
+      <div class="feedback-actions" id="feedback-actions">
+        <button class="fb" id="fb-yes">Yes, correct</button>
+        <button class="fb" id="fb-no">No, wrong</button>
+        <select class="correction" id="correction-select" style="display:none">
+          <option value="">Actual label…</option>
+          <option value="ideological">Ideological</option>
+          <option value="institutionalized">Institutionalized</option>
+          <option value="interpersonal">Interpersonal</option>
+          <option value="internalized">Internalized</option>
+        </select>
+        <button class="fb" id="fb-submit-correction" style="display:none">Submit</button>
+      </div>
+      <p class="fb-confirmed" id="fb-confirmed" style="display:none"></p>
+    </div>
+  </div>
+</main>
+
+<script>
+const CATEGORY_COLOR = {
+  ideological: 'var(--ideological)',
+  institutionalized: 'var(--institutionalized)',
+  interpersonal: 'var(--interpersonal)',
+  internalized: 'var(--internalized)'
+};
+
+const RING_CIRCUMFERENCE = { ideological: 2*Math.PI*60, institutionalized: 2*Math.PI*45, interpersonal: 2*Math.PI*30, internalized: 2*Math.PI*15 };
+
+let currentPredictionId = null;
+
+const submitBtn = document.getElementById('submit-btn');
+const sentenceEl = document.getElementById('sentence');
+const useLlmEl = document.getElementById('use-llm');
+const resultBlock = document.getElementById('result-block');
+
+submitBtn.addEventListener('click', async () => {
+  const sentence = sentenceEl.value.trim();
+  if (!sentence) { sentenceEl.focus(); return; }
+
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Classifying…';
+
+  try {
+    const res = await fetch('/predict', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ sentence, use_llm_backup: useLlmEl.checked })
+    });
+    const data = await res.json();
+    renderResult(data);
+  } catch (err) {
+    console.error(err);
+    alert('Something went wrong reaching the classifier.');
+  } finally {
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Classify';
+  }
+});
+
+function renderResult(data) {
+  currentPredictionId = data.prediction_id || null;
+  resultBlock.style.display = 'block';
+
+  document.getElementById('verdict-label').textContent = data.final_label;
+  document.getElementById('verdict-label').style.color = CATEGORY_COLOR[data.final_label] || 'var(--ink)';
+  document.getElementById('verdict-meta').textContent =
+    `source: ${data.source}${data.llm_used ? ' · llm backup used' : ''}`;
+
+  // Rings: fill each ring proportional to its probability, dim non-predicted ones
+  Object.entries(data.all_logreg_probs || {}).forEach(([label, prob]) => {
+    const ring = document.getElementById('ring-' + label);
+    if (!ring) return;
+    const circumference = RING_CIRCUMFERENCE[label];
+    const offset = circumference * (1 - prob);
+    ring.style.strokeDasharray = circumference;
+    ring.style.strokeDashoffset = offset;
+    ring.style.opacity = label === data.final_label ? '1' : '0.35';
+  });
+
+  // Probability bars
+  const probsEl = document.getElementById('probs');
+  probsEl.innerHTML = '';
+  const sorted = Object.entries(data.all_logreg_probs || {}).sort((a,b) => b[1]-a[1]);
+  sorted.forEach(([label, prob]) => {
+    const row = document.createElement('div');
+    row.className = 'prob-row';
+    row.innerHTML = `
+      <span class="name">${label}</span>
+      <span class="prob-track"><span class="prob-bar" style="width:${(prob*100).toFixed(1)}%;background:${CATEGORY_COLOR[label]}"></span></span>
+      <span class="prob-val">${(prob*100).toFixed(1)}%</span>
+    `;
+    probsEl.appendChild(row);
+  });
+
+  resetFeedbackUI();
+}
+
+// Feedback wiring
+const fbYes = document.getElementById('fb-yes');
+const fbNo = document.getElementById('fb-no');
+const correctionSelect = document.getElementById('correction-select');
+const fbSubmitCorrection = document.getElementById('fb-submit-correction');
+const fbConfirmed = document.getElementById('fb-confirmed');
+const feedbackActions = document.getElementById('feedback-actions');
+
+function resetFeedbackUI() {
+  correctionSelect.style.display = 'none';
+  fbSubmitCorrection.style.display = 'none';
+  feedbackActions.style.display = 'flex';
+  fbConfirmed.style.display = 'none';
+  fbYes.classList.remove('selected');
+  fbNo.classList.remove('selected');
+}
+
+fbYes.addEventListener('click', async () => {
+  await sendFeedback(true, null);
+  showConfirmed('Thanks — logged as correct.');
+});
+
+fbNo.addEventListener('click', () => {
+  correctionSelect.style.display = 'inline-block';
+  fbSubmitCorrection.style.display = 'inline-block';
+  fbNo.classList.add('selected');
+});
+
+fbSubmitCorrection.addEventListener('click', async () => {
+  if (!correctionSelect.value) { correctionSelect.focus(); return; }
+  await sendFeedback(false, correctionSelect.value);
+  showConfirmed(`Thanks — logged actual label as "${correctionSelect.value}".`);
+});
+
+function showConfirmed(msg) {
+  feedbackActions.style.display = 'none';
+  fbConfirmed.textContent = msg;
+  fbConfirmed.style.display = 'block';
+}
+
+async function sendFeedback(isCorrect, correctedLabel) {
+  if (!currentPredictionId) return;
+  try {
+    await fetch('/feedback', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        prediction_id: currentPredictionId,
+        is_correct: isCorrect,
+        corrected_label: correctedLabel
+      })
+    });
+  } catch (err) {
+    console.error('feedback failed', err);
+  }
+}
+</script>
 </body>
 </html>
