@@ -4,8 +4,6 @@ jinja2
 python-multipart
 sentence-transformers
 scikit-learn
-pandas
 numpy
 joblib
 groq
-torch
