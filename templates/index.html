@@ -1,66 +1,183 @@
-from fastapi import FastAPI, Request, Form
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
-from pydantic import BaseModel
-
-from inference import EMPClassifier
-
-
-app = FastAPI(title="EMP Oppression Classifier")
-
-templates = Jinja2Templates(directory="templates")
-
-classifier = EMPClassifier()
-
-
-class PredictionRequest(BaseModel):
-    sentence: str
-    use_llm_backup: bool = True
-
-
-@app.get("/", response_class=HTMLResponse)
-def home(request: Request):
-    return templates.TemplateResponse(
-        "index.html",
-        {
-            "request": request,
-            "result": None,
-            "sentence": ""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EMP Oppression Classifier</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f7f7f7;
+            color: #222;
         }
-    )
 
-
-@app.post("/", response_class=HTMLResponse)
-def classify_from_form(
-    request: Request,
-    sentence: str = Form(...),
-    use_llm_backup: bool = Form(False)
-):
-    result = classifier.classify(
-        sentence=sentence,
-        use_llm_backup=use_llm_backup
-    )
-
-    return templates.TemplateResponse(
-        "index.html",
-        {
-            "request": request,
-            "result": result,
-            "sentence": sentence,
-            "use_llm_backup": use_llm_backup
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
         }
-    )
 
+        h1 {
+            margin-top: 0;
+        }
 
-@app.post("/predict")
-def predict(payload: PredictionRequest):
-    result = classifier.classify(
-        sentence=payload.sentence,
-        use_llm_backup=payload.use_llm_backup
-    )
-    return result
+        textarea {
+            width: 100%;
+            min-height: 120px;
+            padding: 12px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            resize: vertical;
+        }
 
+        button {
+            margin-top: 15px;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            background: #2563eb;
+            color: white;
+            cursor: pointer;
+        }
 
-@app.get("/health")
-def health():
-    return {"status": "ok"}
+        button:hover {
+            background: #1d4ed8;
+        }
+
+        .checkbox-row {
+            margin-top: 12px;
+        }
+
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 10px;
+            background: #eef2ff;
+        }
+
+        .label {
+            font-size: 22px;
+            font-weight: bold;
+            color: #1e40af;
+        }
+
+        .small {
+            color: #555;
+            font-size: 14px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        pre {
+            background: #111827;
+            color: #f9fafb;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>EMP Oppression Classifier</h1>
+
+        <p>
+            Enter a sentence to classify it as
+            <strong>ideological</strong>,
+            <strong>institutionalized</strong>,
+            <strong>interpersonal</strong>, or
+            <strong>internalized</strong>.
+        </p>
+
+        <form method="post">
+            <textarea name="sentence" placeholder="Enter a sentence here..." required>{{ sentence }}</textarea>
+
+            <div class="checkbox-row">
+                <label>
+                    <input type="checkbox" name="use_llm_backup" {% if use_llm_backup %}checked{% endif %}>
+                    Use LLM backup for low-confidence predictions
+                </label>
+            </div>
+
+            <button type="submit">Classify Sentence</button>
+        </form>
+
+        {% if result %}
+        <div class="result">
+            <h2>Prediction Result</h2>
+
+            <p class="label">{{ result.final_label }}</p>
+
+            <p>
+                <strong>Source:</strong> {{ result.source }}
+            </p>
+
+            <p>
+                <strong>LLM Used:</strong> {{ result.llm_used }}
+            </p>
+
+            {% if result.llm_reason %}
+            <p>
+                <strong>LLM Reason:</strong> {{ result.llm_reason }}
+            </p>
+            {% endif %}
+
+            <h3>Logistic Regression Details</h3>
+
+            <table>
+                <tr>
+                    <th>Metric</th>
+                    <th>Value</th>
+                </tr>
+                <tr>
+                    <td>Top 1 Label</td>
+                    <td>{{ result.logreg.top1_label }}</td>
+                </tr>
+                <tr>
+                    <td>Top 1 Probability</td>
+                    <td>{{ "%.4f"|format(result.logreg.top1_prob) }}</td>
+                </tr>
+                <tr>
+                    <td>Top 2 Label</td>
+                    <td>{{ result.logreg.top2_label }}</td>
+                </tr>
+                <tr>
+                    <td>Top 2 Probability</td>
+                    <td>{{ "%.4f"|format(result.logreg.top2_prob) }}</td>
+                </tr>
+            </table>
+
+            <h3>All Label Probabilities</h3>
+
+            <table>
+                <tr>
+                    <th>Label</th>
+                    <th>Probability</th>
+                </tr>
+                {% for label, prob in result.logreg.all_probs.items() %}
+                <tr>
+                    <td>{{ label }}</td>
+                    <td>{{ "%.4f"|format(prob) }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
