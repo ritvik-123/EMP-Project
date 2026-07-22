@@ -1,0 +1,12 @@
+{
+  "embedding_model_name": "BAAI/bge-large-en-v1.5",
+  "n_svd_components": 50,
+  "confidence_threshold": 0.75,
+  "labels": [
+    "ideological",
+    "institutionalized",
+    "internalized",
+    "interpersonal"
+  ],
+  "random_state": 42
+}
